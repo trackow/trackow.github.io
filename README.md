@@ -5,6 +5,8 @@
 
 ### Peer-reviewed publications
 
+1. Sein, D. V., Koldunov, N. V., Danilov, S., Wang, Q., Sidorenko, D., Fast, I., **Rackow, T.**, Cabos, W., and Jung, T. (2017): **Ocean Modeling on a Mesh With Resolution Following the Local Rossby Radius**, _Journal of Advances in Modeling Earth Systems_. [DOI](https://doi.org/10.1002/2017MS001099)
+
 1. Zadra, A., Williams, K., Frassoni, A., Rixen, M., Adames, Á. F., Berner, J., Bouyssel, F., Casati, B., Christensen, H., Ek, M. B., Flato, G., Huang, Y., Judt, F., Lin, H., Maloney, E., Merryfield, W., van Niekerk, A., **Rackow, T.**, Saito, K., Wedi, N., and Yadav, P. (**2017**): **Systematic Errors in Weather and Climate Models: Nature, Origins, and Way Forward**,
 _Bulletin of the American Meteorological Society_. [DOI](https://doi.org/10.1175/BAMS-D-17-0287.1)
 
