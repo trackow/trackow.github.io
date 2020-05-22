@@ -5,7 +5,7 @@
 
 ### Peer-reviewed publications
     
-1. **Rackow, T.** and Juricke, S. (**2020**): **Flow‐dependent stochastic coupling for climate models with high ocean‐to‐atmosphere resolution ratio**, _Quarterly Journal of the Royal Meteorological Society_, 146 (726), pp. 284-300. [DOI](https://doi.org/10.1002/qj.3674) 
+1. **Rackow, T.** and Juricke, S. (**2020**): **Flow‐dependent stochastic coupling for climate models with high ocean‐to‐atmosphere resolution ratio**, _Quarterly Journal of the Royal Meteorological Society_, 146 (726), pp. 284-300. [DOI](https://doi.org/10.1002/qj.3674) | [Citation](https://rmets.onlinelibrary.wiley.com/action/downloadCitation) | Top-downloaded paper
 
     **2019**
 
