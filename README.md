@@ -23,7 +23,7 @@ _Climate Dynamics_, 44 (3), pp. 757-780. [DOI](https://doi.org/10.1007/s00382-01
 0. first item
 0. second item
 0. another item
-{: reversed="reversed"}
+{:reversed="reversed"}
 
 ### Profiles
 
