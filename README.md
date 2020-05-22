@@ -4,12 +4,20 @@
 ### Research
 
 ### Peer-reviewed publications
+    
+1. **Rackow, T.** and Juricke, S. (**2020**): **Flow‐dependent stochastic coupling for climate models with high ocean‐to‐atmosphere resolution ratio**, _Quarterly Journal of the Royal Meteorological Society_, 146 (726), pp. 284-300. [DOI](https://doi.org/10.1002/qj.3674) 
+
+    **2019**
 
 1. **Rackow, T.**, Sein, D. V., Semmler, T., Danilov, S., Koldunov, N. V., Sidorenko, D., Wang, Q., and Jung, T. (**2019**): 
 **Sensitivity of deep ocean biases to horizontal resolution in prototype CMIP6 simulations with AWI-CM1.0**, _Geoscientific Model Development_, 12 (7), pp. 2635-2656. [DOI](https://doi.org/10.5194/gmd-12-2635-2019) | [BibTeX](https://www.geosci-model-dev.net/12/2635/2019/gmd-12-2635-2019.bib) | [Videos](https://zenodo.org/record/2483055#.XshfKC1Xa_U)
 
 1. Barbat, M. M., **Rackow, T.**, Hellmer, H. H., Wesche, C., and Mata, M. M. (**2019**): 
 **Three years of near‐coastal Antarctic iceberg distribution from a machine learning approach applied to SAR imagery**, _Journal of Geophysical Research: Oceans_. [DOI](https://doi.org/10.1029/2019JC015205)
+
+1. Sidorenko, D., Goessling, H. F., Koldunov, N., Scholz, P., Danilov, S., Barbi, D., Cabos, W., Gurses, O., Harig, S., Hinrichs, C., Juricke, S., Lohmann, G., Losch, M., Mu, L., **Rackow, T.**, Rakowsky, N., Sein, D. V., Semmler, T., Shi, X., Stepanek, C., Streffing, J., Wang, Q., Wekerle, C., Yang, H., and Jung, T. (**2019**): 
+**Evaluation of FESOM2.0 Coupled to ECHAM6.3: Preindustrial and HighResMIP Simulations**,
+_Journal of Advances in Modeling Earth Systems_, 11 (11), pp. 3794-3815. [DOI](https://doi.org/10.1029/2019MS001696)
 
     **2018**
     
