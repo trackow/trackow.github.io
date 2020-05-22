@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: Thomas Rackow
-description: climate modelling and scicomm / [publications](#-peer-reviewed-publications)
+description: climate modelling and scicomm / * TOC
+{:toc}
