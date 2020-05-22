@@ -18,6 +18,13 @@ _Climate Dynamics_, 44 (3), pp. 757-780. [DOI](https://doi.org/10.1007/s00382-01
 
 1. Juricke, S., Lemke, P., Timmermann, R., and **Rackow, T.** (**2013**). **Effects of Stochastic Ice Strength Perturbation on Arctic Finite Element Sea Ice Modeling**, _Journal of Climate_, 26 (11), pp. 3785-3802. [DOI](https://doi.org/10.1175/JCLI-D-12-00388.1)
 
+
+
+0. first item
+0. second item
+0. another item
+{: reversed="reversed"}
+
 ### Profiles
 
 ### Markdown examples
