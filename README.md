@@ -7,7 +7,7 @@
 
 1. **Rackow, T.**, Sein, D. V., Semmler, T., Danilov, S., Koldunov, N. V., Sidorenko, D., Wang, Q., and Jung, T. (**2019**): 
 **Sensitivity of deep ocean biases to horizontal resolution in prototype CMIP6 simulations with AWI-CM1.0**,
-_Geoscientific Model Development_, 12 (7), pp. 2635-2656. [DOI](https://doi.org/10.5194/gmd-12-2635-2019)
+_Geoscientific Model Development_, 12 (7), pp. 2635-2656. [DOI](https://doi.org/10.5194/gmd-12-2635-2019) | [BibTeX](https://www.geosci-model-dev.net/12/2635/2019/gmd-12-2635-2019.bib)
 
 1. Barbat, M. M., **Rackow, T.**, Hellmer, H. H., Wesche, C., and Mata, M. M. (**2019**): 
 **Three years of near‐coastal Antarctic iceberg distribution from a machine learning approach applied to SAR imagery**,
