@@ -7,6 +7,7 @@
     
 1. **Rackow, T.** and Juricke, S. (**2020**): **Flow‐dependent stochastic coupling for climate models with high ocean‐to‐atmosphere resolution ratio**, _Quarterly Journal of the Royal Meteorological Society_, 146 (726), pp. 284-300. [DOI](https://doi.org/10.1002/qj.3674) | [Citation](https://rmets.onlinelibrary.wiley.com/action/downloadCitation) | Top-downloaded paper
 
+    ---
     **2019**
 
 1. **Rackow, T.**, Sein, D. V., Semmler, T., Danilov, S., Koldunov, N. V., Sidorenko, D., Wang, Q., and Jung, T. (**2019**): 
@@ -19,6 +20,7 @@
 **Evaluation of FESOM2.0 Coupled to ECHAM6.3: Preindustrial and HighResMIP Simulations**,
 _Journal of Advances in Modeling Earth Systems_, 11 (11), pp. 3794-3815. [DOI](https://doi.org/10.1029/2019MS001696)
 
+    ---
     **2018**
     
 1. **Rackow, T.**, Goessling, H. F., Jung, T., Sidorenko, D., Semmler, T., Barbi, D., and Handorf, D. (**2018**): 
@@ -27,6 +29,7 @@ _Journal of Advances in Modeling Earth Systems_, 11 (11), pp. 3794-3815. [DOI](h
 1. Sein, D. V., Koldunov, N. V., Danilov, S., Sidorenko, D., Wekerle, C., Cabos, W., **Rackow, T.**, Scholz, P., Semmler, T., Wang, Q., and Jung, T. (**2018**): 
 **The Relative Influence of Atmospheric and Oceanic Model Resolution on the Circulation of the North Atlantic Ocean in a Coupled Climate Model**, _Journal of Advances in Modeling Earth Systems_. [DOI](https://doi.org/10.1029/2018MS001327)
 
+    ---
     **2017**
     
 1. **Rackow, T.**, Wesche, C., Timmermann, R., Hellmer, H., Juricke, S., and Jung, T. (**2017**): 
@@ -38,6 +41,7 @@ _Journal of Advances in Modeling Earth Systems_, 11 (11), pp. 3794-3815. [DOI](h
 1. Zadra, A., Williams, K., Frassoni, A., Rixen, M., Adames, Á. F., Berner, J., Bouyssel, F., Casati, B., Christensen, H., Ek, M. B., Flato, G., Huang, Y., Judt, F., Lin, H., Maloney, E., Merryfield, W., van Niekerk, A., **Rackow, T.**, Saito, K., Wedi, N., and Yadav, P. (**2017**): 
 **Systematic Errors in Weather and Climate Models: Nature, Origins, and Way Forward**, _Bulletin of the American Meteorological Society_. [DOI](https://doi.org/10.1175/BAMS-D-17-0287.1)
 
+    ---
     **pre-2017**
 
 1. Sidorenko, D., **Rackow, T.**, Jung, T., Semmler, T., Barbi, D., Danilov, S., Dethloff, K., Dorn, W., Fieg, K., Goessling, H. F., Handorf, D., Harig, S., Hiller, W., Juricke, S., Losch, M., Schröter, J., Sein, D., and Wang, Q. (**2015**): 
