@@ -12,6 +12,12 @@
 
 ### Blogposts / Interviews / Podcasts
 
+1. **Trapped in sea ice: Educating the future generations of polar scientists**. [Link to the post @ EGU's Cryoblog](https://blogs.egu.eu/divisions/cr/2020/03/06/trapped-in-the-sea-ice-educating-the-future-generations-of-polar-scientists/)
+
+1. **The IcePod: Episode 1 - The First Time**. Podcast with Kirstin Werner and Sara Pasqualetto about my participation during MOSAiC expedition to the Central Arctic. [Link to the Podcast (97 minutes!)](https://community.wmo.int/news/new-ppp-podcast-icepod)
+
+1. **How to predict the weather on a Russian icebreaker**. [Link to the post @ CU Boulder](https://mosaic.colorado.edu/news/how-predict-weather-russian-icebreaker) 
+{:reversed="reversed"}
 
 ### Peer-reviewed publications
     
