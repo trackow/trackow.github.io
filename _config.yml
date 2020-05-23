@@ -1,3 +1,15 @@
 title: Thomas Rackow
 description: climate modelling and scicomm
 remote_theme: daattali/beautiful-jekyll
+
+# Your name to show in the footer
+author: Thomas Rackow
+
+# --- List of links in the navigation bar --- #
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - AWI: "https://www.awi.de"
+    - YOPP: "https://www.polarprediction.net"
+  Author's home: "https://github.com/trackow/trackow.github.io"
