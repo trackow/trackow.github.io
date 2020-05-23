@@ -1,8 +1,6 @@
 * TOC
 {:toc}
 
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-
 ### Research
 
 
@@ -47,7 +45,12 @@ _Journal of Advances in Modeling Earth Systems_, 11 (11), pp. 3794-3815. [link](
 1. **Rackow, T.**, Wesche, C., Timmermann, R., Hellmer, H., Juricke, S., and Jung, T. (**2017**): 
 **A simulation of small to giant Antarctic iceberg evolution: Differential impact on climatology estimates**, _Journal of Geophysical Research: Oceans_. [link](https://doi.org/10.1002/2016JC012513) | Journal Highlight/Cover image | Top-downloaded paper  
 
-<div class='altmetric-embed' data-badge-type='donut' data- doi="10.1002/2016JC012513"></div>
+
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>
+    <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1002/2016JC012513">
+    </div>
+</script>
+
 
 1. Sein, D. V., Koldunov, N. V., Danilov, S., Wang, Q., Sidorenko, D., Fast, I., **Rackow, T.**, Cabos, W., and Jung, T. (**2017**): 
 **Ocean Modeling on a Mesh With Resolution Following the Local Rossby Radius**, _Journal of Advances in Modeling Earth Systems_. [link](https://doi.org/10.1002/2017MS001099)
