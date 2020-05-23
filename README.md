@@ -15,7 +15,7 @@
 
 ### Peer-reviewed publications
     
-1. **Rackow, T.** and Juricke, S. (**2020**): **Flow‐dependent stochastic coupling for climate models with high ocean‐to‐atmosphere resolution ratio**, _Quarterly Journal of the Royal Meteorological Society_, 146 (726), pp. 284-300. [link](https://doi.org/10.1002/qj.3674) | [citation](https://rmets.onlinelibrary.wiley.com/action/downloadCitation) | top-downloaded paper
+1. **Rackow, T.** and Juricke, S. (**2020**): **Flow‐dependent stochastic coupling for climate models with high ocean‐to‐atmosphere resolution ratio**, _Quarterly Journal of the Royal Meteorological Society_, 146 (726), pp. 284-300. [link](https://doi.org/10.1002/qj.3674) / [citation](https://rmets.onlinelibrary.wiley.com/action/downloadCitation) / top-downloaded paper
 
     <span class="__dimensions_badge_embed__" data-doi="10.1002/qj.3674" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle">
     </span>
@@ -144,15 +144,13 @@ _Journal of Advances in Modeling Earth Systems_, 11 (11), pp. 3794-3815. [link](
 1. Juricke, S., Lemke, P., Timmermann, R., and **Rackow, T.** (**2013**):
 **Effects of Stochastic Ice Strength Perturbation on Arctic Finite Element Sea Ice Modeling**, _Journal of Climate_, 26 (11), pp. 3785-3802. [link](https://doi.org/10.1175/JCLI-D-12-00388.1)
 {:reversed="reversed"}
-
-
+    
     <span class="__dimensions_badge_embed__" data-doi="10.1175/JCLI-D-12-00388.1" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle">
     </span>
     
     <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.1175/JCLI-D-12-00388.1" data-hide-less-than="20">
     </div>
-
-
+    
 ### Scientific profiles / social media
 
 [ORCiD profile](https://orcid.org/0000-0002-5468-575X) / [ResearchGate profile](https://www.researchgate.net/profile/Thomas_Rackow) / [Google Scholar profile](https://scholar.google.de/citations?user=P5Ebb8cAAAAJ&hl=eng) / [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=55764106200) / [Twitter profile @thomas_rackow](https://twitter.com/thomas_rackow)
