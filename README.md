@@ -62,8 +62,4 @@ _Journal of Advances in Modeling Earth Systems_, 11 (11), pp. 3794-3815. [link](
 
 ### Scientific profiles / social media
 
-[ORCiD profile](https://orcid.org/0000-0002-5468-575X)
-[ResearchGate profile](https://www.researchgate.net/profile/Thomas_Rackow)
-[Google Scholar profile](https://scholar.google.de/citations?user=P5Ebb8cAAAAJ&hl=eng)
-[Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=55764106200)
-[Twitter profile @thomas_rackow](https://twitter.com/thomas_rackow)
+[ORCiD profile](https://orcid.org/0000-0002-5468-575X) / [ResearchGate profile](https://www.researchgate.net/profile/Thomas_Rackow) / [Google Scholar profile](https://scholar.google.de/citations?user=P5Ebb8cAAAAJ&hl=eng) / [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=55764106200) / [Twitter profile @thomas_rackow](https://twitter.com/thomas_rackow)
