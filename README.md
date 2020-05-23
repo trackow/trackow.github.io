@@ -7,6 +7,8 @@
     
 1. **Rackow, T.** and Juricke, S. (**2020**): **Flow‐dependent stochastic coupling for climate models with high ocean‐to‐atmosphere resolution ratio**, _Quarterly Journal of the Royal Meteorological Society_, 146 (726), pp. 284-300. [link](https://doi.org/10.1002/qj.3674) | [citation](https://rmets.onlinelibrary.wiley.com/action/downloadCitation) | top-downloaded paper
 
+1. Bracegirdle, T. J., Holmes, C. R., Hosking, J. S., Marshall, G. J., Osman, M., Patterson, M., and **Rackow, T.** (**2020**): **Improvements in Circumpolar Southern Hemisphere Extratropical Atmospheric Circulation in CMIP6 Compared to CMIP5**. _Earth and Space Science_, 7, e2019EA001065. [link](https://doi.org/10.1029/2019EA001065)
+
 1. Roach, L. A., Dörr, J., Holmes, C. R., Massonnet, F., Blockley, E. W., Notz, D., **Rackow, T.**, Raphael, M. N., O'Farrell S. P., Bailey, D. A., Bitz, C. M. (**2020**): **Antarctic sea ice area in CMIP6**. _Geophysical Research Letters_, 47, e2019GL086729. [doi:10.1029/2019GL086729](https://doi.org/10.1029/2019GL086729)
 
 1. Krumpen, T., Birrien, F., Kauker, F., **Rackow, T.**, von Albedyll, L., Angelopoulos, M., Belter, H. J., Bessonov, V., Damm, E., Dethloff, K., Haapala, J., Haas, C., Hendricks, S., Hoelemann, J., Hoppmann, M., Kaleschke, L., Karcher, M., Kolabutin, N., Lenz, J., Morgenstern, A., Nicolaus, M., Nixdorf, U., Petrovsky, T., Rabe, B., Rabenstein, L., Rex, M., Ricker, R., Rohde, J., Shimanchuk, E., Singha, S., Smolyanitsky, V., Sokolov, V., Stanton, T., Timofeeva, A., and Tsamados, M. (**2020**): **The MOSAiC ice floe: sediment-laden survivor from the Siberian shelf**, _The Cryosphere Discuss._, [link](https://doi.org/10.5194/tc-2020-64) (in revision)
