@@ -145,13 +145,13 @@ _Journal of Advances in Modeling Earth Systems_, 11 (11), pp. 3794-3815. [link](
 **Effects of Stochastic Ice Strength Perturbation on Arctic Finite Element Sea Ice Modeling**, _Journal of Climate_, 26 (11), pp. 3785-3802. [link](https://doi.org/10.1175/JCLI-D-12-00388.1)
 {:reversed="reversed"}
 
-Dimensions badges are only shown for papers with at least one citation; Altmetric badges are shown for papers with a score of at least 20:
-
 <span class="__dimensions_badge_embed__" data-doi="10.1175/JCLI-D-12-00388.1" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
 </span>
     
 <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.1175/JCLI-D-12-00388.1" data-hide-less-than="20">
 </div>
+
+Dimensions badges are only shown for papers with at least one citation; Altmetric badges are shown in addition for papers that received a high media attention (score of at least 20).
     
    
 ### Scientific profiles / social media
