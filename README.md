@@ -18,7 +18,9 @@
 1. **Rackow, T.** and Juricke, S. (**2020**): **Flow‐dependent stochastic coupling for climate models with high ocean‐to‐atmosphere resolution ratio**, _Quarterly Journal of the Royal Meteorological Society_, 146 (726), pp. 284-300. [link](https://doi.org/10.1002/qj.3674) | [citation](https://rmets.onlinelibrary.wiley.com/action/downloadCitation) | top-downloaded paper
 
     <span class="__dimensions_badge_embed__" data-doi="10.1002/qj.3674" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle">
-    </span><div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.1002/qj.3674" data-hide-less-than="20">
+    </span>
+    
+    <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.1002/qj.3674" data-hide-less-than="20">
     </div>
 
 1. Bracegirdle, T. J., Holmes, C. R., Hosking, J. S., Marshall, G. J., Osman, M., Patterson, M., and **Rackow, T.** (**2020**): **Improvements in Circumpolar Southern Hemisphere Extratropical Atmospheric Circulation in CMIP6 Compared to CMIP5**. _Earth and Space Science_, 7, e2019EA001065. [link](https://doi.org/10.1029/2019EA001065)
