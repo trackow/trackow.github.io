@@ -18,9 +18,9 @@
 
 1. **How to predict the weather on a Russian icebreaker**. [Link to the post @ CU Boulder](https://mosaic.colorado.edu/news/how-predict-weather-russian-icebreaker) 
 
-1. Various **radio interviews and newspaper articles after iceberg A68's calving** in 2017. For example, [BBC news](https://www.bbc.com/news/science-environment-44745734), FM4 Austria, HR-info, or BR radio.
+1. Various **radio interviews and newspaper articles after iceberg A68's calving** in 2017. For example, [BBC news](https://www.bbc.com/news/science-environment-44745734), [Spiegel](https://www.spiegel.de/wissenschaft/natur/larsen-c-schelfeis-eisriese-a68-treibt-langsam-in-waermere-gewaesser-a-1226845.html), [Stern](https://www.stern.de/panorama/weltgeschehen/riesiger-eisberg-treibt-durch-antarktische-gewaesser-8346294.html), [FAZ](https://www.faz.net/aktuell/wissen/larsen-c-aufloesungstendenzen-am-suedpol-15103012.html), FM4 Austria, HR-info, or BR radio.
 
-1. **Can Antarctic icebergs solve South Africa's drinkable water problem?** In IQ - Wissenschaft und Forschung. [Link to the (German) radio station](https://www.br.de/nachrichten/wissen/loesen-eisberge-aus-der-antarktis-suedafrikas-trinkwasserproblem,QrZsX8Q)
+1. **Can Antarctic icebergs solve South Africa's water crisis?** In IQ - Wissenschaft und Forschung. [Link to the (German) radio station](https://www.br.de/nachrichten/wissen/loesen-eisberge-aus-der-antarktis-suedafrikas-trinkwasserproblem,QrZsX8Q)
 {:reversed="reversed"}
 
 ### Peer-reviewed publications
