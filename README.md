@@ -1,6 +1,8 @@
 [//]: # (javascript line for adding Altmetric badges)
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>
 </script>   
+[//]: # (javascript line for adding Dimensions badges)
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * TOC
 {:toc}
@@ -63,6 +65,9 @@ _Journal of Advances in Modeling Earth Systems_, 11 (11), pp. 3794-3815. [link](
 
     <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.1007/s00382-016-3192-6" data-hide-less-than="20">
     </div>
+    
+    <span class="__dimensions_badge_embed__" data-doi="10.1007/s00382-016-3192-6" data-legend="hover-right" data-style="small_circle">
+    </span>
 
 1. Sein, D. V., Koldunov, N. V., Danilov, S., Sidorenko, D., Wekerle, C., Cabos, W., **Rackow, T.**, Scholz, P., Semmler, T., Wang, Q., and Jung, T. (**2018**): 
 **The Relative Influence of Atmospheric and Oceanic Model Resolution on the Circulation of the North Atlantic Ocean in a Coupled Climate Model**, _Journal of Advances in Modeling Earth Systems_. [link](https://doi.org/10.1029/2018MS001327)
