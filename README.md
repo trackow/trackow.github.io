@@ -14,7 +14,7 @@
 1. Krumpen, T., Birrien, F., Kauker, F., **Rackow, T.**, von Albedyll, L., Angelopoulos, M., Belter, H. J., Bessonov, V., Damm, E., Dethloff, K., Haapala, J., Haas, C., Hendricks, S., Hoelemann, J., Hoppmann, M., Kaleschke, L., Karcher, M., Kolabutin, N., Lenz, J., Morgenstern, A., Nicolaus, M., Nixdorf, U., Petrovsky, T., Rabe, B., Rabenstein, L., Rex, M., Ricker, R., Rohde, J., Shimanchuk, E., Singha, S., Smolyanitsky, V., Sokolov, V., Stanton, T., Timofeeva, A., and Tsamados, M. (**2020**): **The MOSAiC ice floe: sediment-laden survivor from the Siberian shelf**, _The Cryosphere Discuss._, [link](https://doi.org/10.5194/tc-2020-64) (in revision)
 
     ---
-    **2019**
+    2019
 
 1. **Rackow, T.**, Sein, D. V., Semmler, T., Danilov, S., Koldunov, N. V., Sidorenko, D., Wang, Q., and Jung, T. (**2019**): 
 **Sensitivity of deep ocean biases to horizontal resolution in prototype CMIP6 simulations with AWI-CM1.0**, _Geoscientific Model Development_, 12 (7), pp. 2635-2656. [link](https://doi.org/10.5194/gmd-12-2635-2019) | [bibTeX](https://www.geosci-model-dev.net/12/2635/2019/gmd-12-2635-2019.bib) | [videos](https://zenodo.org/record/2483055#.XshfKC1Xa_U)
@@ -57,28 +57,14 @@ _Journal of Advances in Modeling Earth Systems_, 11 (11), pp. 3794-3815. [link](
 **Effects of Stochastic Ice Strength Perturbation on Arctic Finite Element Sea Ice Modeling**, _Journal of Climate_, 26 (11), pp. 3785-3802. [link](https://doi.org/10.1175/JCLI-D-12-00388.1)
 {:reversed="reversed"}
 
-### Profiles
+### Scientific profiles / social media
 
-### Markdown examples
+[ORCiD profile](https://orcid.org/0000-0002-5468-575X)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[ResearchGate profile](https://www.researchgate.net/profile/Thomas_Rackow)
 
-```markdown
-Syntax highlighted code block
+[Google Scholar profile](https://scholar.google.de/citations?user=P5Ebb8cAAAAJ&hl=eng)
 
-# Header 1
-## Header 2
-### Header 3
+[Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=55764106200)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Twitter profile @thomas_rackow](https://twitter.com/thomas_rackow)
