@@ -30,8 +30,6 @@
 1. Barbat, M. M., **Rackow, T.**, Wesche, C., Hellmer, H. H., and Mata, M. M (**2020**): **Automated iceberg tracking with a machine learning approach applied to SAR imagery: A Weddell Sea case study**. Under review for _ISPRS Journal of Photogrammetry and Remote Sensing_.
 
 ### Peer-reviewed publications
-
-    **2020**
     
 1. **Rackow, T.** and Juricke, S. (**2020**): **Flow‐dependent stochastic coupling for climate models with high ocean‐to‐atmosphere resolution ratio**, _Quarterly Journal of the Royal Meteorological Society_, 146 (726), pp. 284-300. [link](https://doi.org/10.1002/qj.3674) / [citation](https://rmets.onlinelibrary.wiley.com/action/downloadCitation) / top-downloaded paper
 
