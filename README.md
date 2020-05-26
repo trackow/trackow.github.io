@@ -20,6 +20,10 @@
 
 1. **Where is the giant iceberg from the Larsen C Ice Shelf heading?** Interview in magazine of the Climate Sciences Division at the Alfred Wegener Institute [Link to the English PDF (p.42-45)](https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Besondere_Gruppen/Klimabuero/Material_Klimamagazin/RZ_AWI_Klimabro_E_low_RGB.pdf) [Deutsche Version (S.42-45)](https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Besondere_Gruppen/Klimabuero/Material_Klimamagazin/RZ_AWI_Klimabro_D_low_RGB_72dpi.pdf)
 
+    | ![Iceberg_Routes](Iceberg_Routes_TD_small.png) |
+    |:--:| 
+    | *Graphic: Tanja Deutschländer/Thomas Rackow* |
+
 1. **Ein Riese macht sich auf den Weg** Expert post about iceberg A68 with Dr. Daniela Jansen for BMBF's "Wissenschaftsjahr 2016/17 _Meere und Ozeane_". [Link to the post](https://www.wissenschaftsjahr.de/2016-17/aktuelles/das-sagen-die-experten/ein-riese-macht-sich-auf-den-weg.html)
 
 1. Various **radio interviews and newspaper articles after iceberg A68's calving** in 2017. For example, [BBC news](https://www.bbc.com/news/science-environment-44745734), [Spiegel](https://www.spiegel.de/wissenschaft/natur/larsen-c-schelfeis-eisriese-a68-treibt-langsam-in-waermere-gewaesser-a-1226845.html), [Stern](https://www.stern.de/panorama/weltgeschehen/riesiger-eisberg-treibt-durch-antarktische-gewaesser-8346294.html), [FAZ](https://www.faz.net/aktuell/wissen/larsen-c-aufloesungstendenzen-am-suedpol-15103012.html), [Zeit](https://www.zeit.de/wissen/umwelt/2018-09/antarktis-eisberg-a68-abbruch-bewegung), [MDR](https://www.mdr.de/wissen/neuer-antarktis-eisberg-in-bewegung100.html), FM4 Austria, HR-info, or BR radio.
@@ -34,6 +38,7 @@
 1. Semmler, T., Danilov, S., Gierz, P., Goessling, H. F., Hegewald, J., Hinrichs, C., Koldunov, N., Khosravi, N., Mu, L., **Rackow, T.**, Sein, D., Sidorenko, D., Wang, Q., Jung, T. (**2020**): **Simulations for CMIP6 with the AWI climate model AWI-CM-1-1**. _Journal of Advances in Modeling Earth Systems_ (in revision).
 
 1. Barbat, M. M., **Rackow, T.**, Wesche, C., Hellmer, H. H., and Mata, M. M (**2020**): **Automated iceberg tracking with a machine learning approach applied to SAR imagery: A Weddell Sea case study**. _ISPRS Journal of Photogrammetry and Remote Sensing_ (under review).
+{:reversed="reversed"}
 
 ### Peer-reviewed publications
     
