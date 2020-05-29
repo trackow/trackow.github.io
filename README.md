@@ -95,7 +95,7 @@
     </div>
 
 1. Barbat, M. M., **Rackow, T.**, Hellmer, H. H., Wesche, C., and Mata, M. M. (**2019**): 
-**Three years of near‐coastal Antarctic iceberg distribution from a machine learning approach applied to SAR imagery**, _Journal of Geophysical Research: Oceans_. [link](https://doi.org/10.1029/2019JC015205)
+**Three years of near‐coastal Antarctic iceberg distribution from a machine learning approach applied to SAR imagery**, _Journal of Geophysical Research: Oceans_. [link](https://doi.org/10.1029/2019JC015205) / [iceberg distributions for 1997, 2000, 2008](https://goal.furg.br/producao-cientifica/supplements/201-sup-2019)
 
     <span class="__dimensions_badge_embed__" data-doi="10.1029/2019JC015205" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
     </span>
