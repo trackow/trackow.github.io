@@ -41,6 +41,14 @@
 {:reversed="reversed"}
 
 ### Peer-reviewed publications
+
+1. Bracegirdle, T. J., Krinner, G., Tonelli, M., F. Haumann, A., Naughten, K. A., **Rackow, T.**, Roach, L. A., Wainer, I. (**2020**). **Twenty first century changes in Antarctic and Southern Ocean surface climate in CMIP6**. _Atmospheric Science Letters._ [link](https://doi.org/10.1002/asl.984)
+    
+    <span class="__dimensions_badge_embed__" data-doi="10.1002/asl.984" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
+    </span>
+    
+    <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.1002/asl.984" data-hide-less-than="20">
+    </div>
     
 1. **Rackow, T.** and Juricke, S. (**2020**): **Flow‐dependent stochastic coupling for climate models with high ocean‐to‐atmosphere resolution ratio**, _Quarterly Journal of the Royal Meteorological Society_, 146 (726), pp. 284-300. [link](https://doi.org/10.1002/qj.3674) / [citation](https://rmets.onlinelibrary.wiley.com/action/downloadCitation) / top-downloaded paper
 
