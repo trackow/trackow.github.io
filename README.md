@@ -188,7 +188,11 @@ _Journal of Advances in Modeling Earth Systems_, 11 (11), pp. 3794-3815. [link](
 </div>
 
 Dimensions badges are only shown for papers with at least one citation; Altmetric badges are shown in addition for papers that received a high media attention (score of at least 20).
-    
+   
+### Other publications
+
+1. Cruise report about Leg1a of MOSAiC Expedition [chapter 5.4: Weather and Ice forecasts](https://epic.awi.de/id/eprint/52409/1/BzPM_0744_2020.pdf). **The Expedition AF122/1 - Setting up the MOSAiC Distributed Network in October 2019 with Research Vessel AKADEMIK FEDOROV**. Edited by T. Krumpen and V. Sokolov
+
    
 ### Scientific profiles / social media
 
