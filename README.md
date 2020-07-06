@@ -43,7 +43,7 @@
 
 ### Peer-reviewed publications
 
-1. Krumpen, T., Birrien, F., Kauker, F., **Rackow, T.**, von Albedyll, L., Angelopoulos, M., Belter, H. J., Bessonov, V., Damm, E., Dethloff, K., Haapala, J., Haas, C., Harris, C., Hendricks, S., Hoelemann, J., Hoppmann, M., Kaleschke, L., Karcher, M., Kolabutin, N., Lei, R., Lenz, J., Morgenstern, A., Nicolaus, M., Nixdorf, U., Petrovsky, T., Rabe, B., Rabenstein, L., Rex, M., Ricker, R., Rohde, J., Shimanchuk, E., Singha, S., Smolyanitsky, V., Sokolov, V., Stanton, T., Timofeeva, A., and Tsamados, M., and Watkins, D. (**2020**): **The MOSAiC ice floe: sediment-laden survivor from the Siberian shelf**, _The Cryosphere_, [link](https://doi.org/10.5194/tc-14-2173-2020) | [EGU press release](https://www.egu.eu/news/665/first-findings-from-the-mosaic-floe/)
+1. Krumpen, T., Birrien, F., Kauker, F., **Rackow, T.**, von Albedyll, L., Angelopoulos, M., Belter, H. J., Bessonov, V., Damm, E., Dethloff, K., Haapala, J., Haas, C., Harris, C., Hendricks, S., Hoelemann, J., Hoppmann, M., Kaleschke, L., Karcher, M., Kolabutin, N., Lei, R., Lenz, J., Morgenstern, A., Nicolaus, M., Nixdorf, U., Petrovsky, T., Rabe, B., Rabenstein, L., Rex, M., Ricker, R., Rohde, J., Shimanchuk, E., Singha, S., Smolyanitsky, V., Sokolov, V., Stanton, T., Timofeeva, A., and Tsamados, M., and Watkins, D. (**2020**): **The MOSAiC ice floe: sediment-laden survivor from the Siberian shelf**, _The Cryosphere_, [link](https://doi.org/10.5194/tc-14-2173-2020) / [EGU press release](https://www.egu.eu/news/665/first-findings-from-the-mosaic-floe/)
 
     <span class="__dimensions_badge_embed__" data-doi="10.5194/tc-14-2173-2020" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
     </span>
