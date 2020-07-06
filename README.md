@@ -139,7 +139,7 @@ _Journal of Advances in Modeling Earth Systems_, 11 (11), pp. 3794-3815. [link](
     **2017**
     
 1. **Rackow, T.**, Wesche, C., Timmermann, R., Hellmer, H., Juricke, S., and Jung, T. (**2017**): 
-**A simulation of small to giant Antarctic iceberg evolution: Differential impact on climatology estimates**, _Journal of Geophysical Research: Oceans_. [link](https://doi.org/10.1002/2016JC012513) | Journal Highlight/Cover image | Top-downloaded paper  
+**A simulation of small to giant Antarctic iceberg evolution: Differential impact on climatology estimates**, _Journal of Geophysical Research: Oceans_. [link](https://doi.org/10.1002/2016JC012513) | Journal Highlight/Cover image | AGU top-downloaded paper / [AWI press release](https://www.awi.de/en/about-us/service/press/press-release/researchers-unravel-the-drivers-of-large-iceberg-movement.html)  
 
     <span class="__dimensions_badge_embed__" data-doi="10.1002/2016JC012513" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
     </span>
