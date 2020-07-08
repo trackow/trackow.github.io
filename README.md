@@ -51,7 +51,7 @@
     <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.5194/tc-2020-64" data-hide-less-than="20">
     </div>
     
-    <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.5194/tc-14-2173-2020" data-hide-less-than="20">
+    <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.5194/tc-14-2173-2020" data-hide-less-than="2">
     </div>
 
 1. Bracegirdle, T. J., Krinner, G., Tonelli, M., F. Haumann, A., Naughten, K. A., **Rackow, T.**, Roach, L. A., Wainer, I. (**2020**). **Twenty first century changes in Antarctic and Southern Ocean surface climate in CMIP6**. _Atmospheric Science Letters._ [link](https://doi.org/10.1002/asl.984)
