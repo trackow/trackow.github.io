@@ -13,6 +13,8 @@
 
 ### Blogposts / Interviews / Podcasts
 
+1. **Happy birthday, A68!** [Link to the post @ AWI Eisblog](https://blogs.helmholtz.de/eisblog/2020/07/happy-birthday-a-68/)
+
 1. **Trapped in sea ice: Educating the future generations of polar scientists**. [Link to the post @ EGU's Cryoblog](https://blogs.egu.eu/divisions/cr/2020/03/06/trapped-in-the-sea-ice-educating-the-future-generations-of-polar-scientists/)
 
 1. **The IcePod: Episode 1 - The First Time**. Podcast with Kirstin Werner and Sara Pasqualetto about my participation during MOSAiC expedition to the Central Arctic. [Link to the Podcast (97 minutes!)](https://community.wmo.int/news/new-ppp-podcast-icepod)
