@@ -36,6 +36,8 @@
 
 ### Submitted publications
 
+1. Starr, A., Hall, I.R.,  Barker, S., **Rackow, T.**, Zhang, X., Hemming, S.R., van der Lubbe, H.J.L, Knorr, G., Berke, M.A., Bigg, G.R., Cartagena, A., Jiminez-Espejo, F.J., Gong, X., Gruetzner, J., Lathika, N.,  LeVay, L.J., Robinson, R., Ziegler, M., Exp. 361 Science Party. **An Antarctic Iceberg Melt Driver of Glacial Deep Water-Mass Reorganizations**. Nature (under review)
+
 1. **Rackow, T.**, Danilov, S., Goessling, H. F., Hellmer, H. H., Sein, D. V., Semmler, T., and Jung, T. (**2020**). **Antarctic sea ice decline delayed well into the 21st century in a high-resolution climate projection**. (in revision)
 
 1. Semmler, T., Danilov, S., Gierz, P., Goessling, H. F., Hegewald, J., Hinrichs, C., Koldunov, N., Khosravi, N., Mu, L., **Rackow, T.**, Sein, D., Sidorenko, D., Wang, Q., Jung, T. (**2020**): **Simulations for CMIP6 with the AWI climate model AWI-CM-1-1**. _Journal of Advances in Modeling Earth Systems_ (in revision).
