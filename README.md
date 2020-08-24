@@ -40,9 +40,9 @@
 
 1. **Rackow, T.**, Danilov, S., Goessling, H. F., Hellmer, H. H., Sein, D. V., Semmler, T., and Jung, T. (**2020**). **Antarctic sea ice decline delayed well into the 21st century in a high-resolution climate projection**. (in revision)
 
-1. Semmler, T., Danilov, S., Gierz, P., Goessling, H. F., Hegewald, J., Hinrichs, C., Koldunov, N., Khosravi, N., Mu, L., **Rackow, T.**, Sein, D., Sidorenko, D., Wang, Q., Jung, T. (**2020**): **Simulations for CMIP6 with the AWI climate model AWI-CM-1-1**. _Journal of Advances in Modeling Earth Systems_ (in revision).
+1. Semmler, T., Danilov, S., Gierz, P., Goessling, H. F., Hegewald, J., Hinrichs, C., Koldunov, N., Khosravi, N., Mu, L., **Rackow, T.**, Sein, D., Sidorenko, D., Wang, Q., Jung, T. (**2020**): **Simulations for CMIP6 with the AWI climate model AWI-CM-1-1**. _Journal of Advances in Modeling Earth Systems_ (accepted).
 
-1. Barbat, M. M., **Rackow, T.**, Wesche, C., Hellmer, H. H., and Mata, M. M (**2020**): **Automated iceberg tracking with a machine learning approach applied to SAR imagery: A Weddell Sea case study**. _ISPRS Journal of Photogrammetry and Remote Sensing_ (under review).
+1. Barbat, M. M., **Rackow, T.**, Wesche, C., Hellmer, H. H., and Mata, M. M (**2020**): **Automated iceberg tracking with a machine learning approach applied to SAR imagery: A Weddell Sea case study**. _ISPRS Journal of Photogrammetry and Remote Sensing_ (in revision).
 {:reversed="reversed"}
 
 ### Peer-reviewed publications
