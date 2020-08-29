@@ -40,12 +40,18 @@
 
 1. **Rackow, T.**, Danilov, S., Goessling, H. F., Hellmer, H. H., Sein, D. V., Semmler, T., and Jung, T. (**2020**). **Antarctic sea ice decline delayed well into the 21st century in a high-resolution climate projection**. (in revision)
 
-1. Semmler, T., Danilov, S., Gierz, P., Goessling, H. F., Hegewald, J., Hinrichs, C., Koldunov, N., Khosravi, N., Mu, L., **Rackow, T.**, Sein, D., Sidorenko, D., Wang, Q., Jung, T. (**2020**): **Simulations for CMIP6 with the AWI climate model AWI-CM-1-1**. _Journal of Advances in Modeling Earth Systems_ (accepted).
-
 1. Barbat, M. M., **Rackow, T.**, Wesche, C., Hellmer, H. H., and Mata, M. M (**2020**): **Automated iceberg tracking with a machine learning approach applied to SAR imagery: A Weddell Sea case study**. _ISPRS Journal of Photogrammetry and Remote Sensing_ (in revision).
 {:reversed="reversed"}
 
 ### Peer-reviewed publications
+
+1. Semmler, T., Danilov, S., Gierz, P., Goessling, H. F., Hegewald, J., Hinrichs, C., Koldunov, N., Khosravi, N., Mu, L., **Rackow, T.**, Sein, D., Sidorenko, D., Wang, Q., Jung, T. (**2020**): **Simulations for CMIP6 with the AWI climate model AWI-CM-1-1**. _Journal of Advances in Modeling Earth Systems_ 12, e2019MS002009. [link](https://doi.org/10.1029/2019MS002009)
+
+    <span class="__dimensions_badge_embed__" data-doi="10.1029/2019MS002009" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
+    </span>
+    
+    <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.1029/2019MS002009" data-hide-less-than="20">
+    </div>
 
 1. Krumpen, T., Birrien, F., Kauker, F., **Rackow, T.**, von Albedyll, L., Angelopoulos, M., Belter, H. J., Bessonov, V., Damm, E., Dethloff, K., Haapala, J., Haas, C., Harris, C., Hendricks, S., Hoelemann, J., Hoppmann, M., Kaleschke, L., Karcher, M., Kolabutin, N., Lei, R., Lenz, J., Morgenstern, A., Nicolaus, M., Nixdorf, U., Petrovsky, T., Rabe, B., Rabenstein, L., Rex, M., Ricker, R., Rohde, J., Shimanchuk, E., Singha, S., Smolyanitsky, V., Sokolov, V., Stanton, T., Timofeeva, A., and Tsamados, M., and Watkins, D. (**2020**): **The MOSAiC ice floe: sediment-laden survivor from the Siberian shelf**, _The Cryosphere_, [link](https://doi.org/10.5194/tc-14-2173-2020) / [EGU Highlight Article](https://www.the-cryosphere.net/highlight_articles.html) / [EGU press release](https://www.egu.eu/news/665/first-findings-from-the-mosaic-floe/) / [AWI press release](https://www.awi.de/en/about-us/service/press/press-release/the-latest-findings-on-the-mosaic-floe.html)
 
