@@ -13,6 +13,8 @@
 
 ### Blogposts / Interviews / Podcasts
 
+1. **A brief history of A68 - the world's largest iceberg**. [Link to the post @ EGU's Cryoblog](https://blogs.egu.eu/divisions/cr/2020/09/25/climate-change-cryosphere-a-brief-history-of-a68-the-worlds-largest-iceberg/)
+
 1. **Happy birthday, A68!** [Link to the post @ AWI Eisblog](https://blogs.helmholtz.de/eisblog/2020/07/happy-birthday-a-68/)
 
 1. **Trapped in sea ice: Educating the future generations of polar scientists**. [Link to the post @ EGU's Cryoblog](https://blogs.egu.eu/divisions/cr/2020/03/06/trapped-in-the-sea-ice-educating-the-future-generations-of-polar-scientists/)
