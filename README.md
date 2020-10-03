@@ -11,13 +11,15 @@
 
 ### Research
 
-### Blogposts / Interviews / Podcasts
+### Outreach / Blogposts / Interviews / Podcasts
 
 1. **A brief history of A68 - the world's largest iceberg**. [Link to the post @ EGU's Cryoblog](https://blogs.egu.eu/divisions/cr/2020/09/25/climate-change-cryosphere-a-brief-history-of-a68-the-worlds-largest-iceberg/)
 
 1. **Happy birthday, A68!** [Link to the post @ AWI Eisblog](https://blogs.helmholtz.de/eisblog/2020/07/happy-birthday-a-68/)
 
 1. **Trapped in sea ice: Educating the future generations of polar scientists**. [Link to the post @ EGU's Cryoblog](https://blogs.egu.eu/divisions/cr/2020/03/06/trapped-in-the-sea-ice-educating-the-future-generations-of-polar-scientists/)
+
+1. **MOSAiC drift math puzzle for the annual German math calendar, with Dr. Falk Ebert (teacher at Herder-Gymnasium, Berlin)** [Link to the puzzle](https://www.mathe-im-advent.de/de/kalender/7-9/6/) / [Impressions](https://www.mathe-im-advent.de/de/neuigkeiten/2020-01-25/pvmia2019/) / [Prize ceremony with about 1000 children and pupils](https://idw-online.de/de/news730395)
 
 1. **The IcePod: Episode 1 - The First Time**. Podcast with Kirstin Werner and Sara Pasqualetto about my participation during MOSAiC expedition to the Central Arctic. [Link to the Podcast (97 minutes!)](https://community.wmo.int/news/new-ppp-podcast-icepod)
 
