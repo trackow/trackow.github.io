@@ -228,12 +228,14 @@ Dimensions badges are only shown for papers with at least one citation; Altmetri
     <script async src="//www.instagram.com/embed.js"></script>
     </div>
 
+
 1. **Arctic sea ice decrease animation resembling the 1st ever image of a black hole**
     <div class="center">
     <!-- first tweet -->
     <blockquote class="twitter-tweet"><p lang="en" dir="ltr">To communicate the <a href="https://twitter.com/hashtag/gravity?src=hash&amp;ref_src=twsrc%5Etfw">#gravity</a> of the situation, I visualised Arctic <a href="https://twitter.com/hashtag/seaice?src=hash&amp;ref_src=twsrc%5Etfw">#seaice</a> decrease resembling the 1st ever image of a <a href="https://twitter.com/hashtag/BlackHole?src=hash&amp;ref_src=twsrc%5Etfw">#BlackHole</a> <a href="https://twitter.com/ehtelescope?ref_src=twsrc%5Etfw">@ehtelescope</a>. Colors are brighter closer to the &quot;ice-free&quot; event horizon. <a href="https://twitter.com/hashtag/SeaIceMatters?src=hash&amp;ref_src=twsrc%5Etfw">#SeaIceMatters</a> <a href="https://twitter.com/hashtag/ClimateChangeSucks?src=hash&amp;ref_src=twsrc%5Etfw">#ClimateChangeSucks</a> <a href="https://twitter.com/AWI_Media?ref_src=twsrc%5Etfw">@AWI_media</a> <a href="https://twitter.com/ed_hawkins?ref_src=twsrc%5Etfw">@ed_hawkins</a> <a href="https://twitter.com/JannaLevin?ref_src=twsrc%5Etfw">@JannaLevin</a> <a href="https://twitter.com/ZLabe?ref_src=twsrc%5Etfw">@ZLabe</a> <a href="https://t.co/2IRoXjoMf4">https://t.co/2IRoXjoMf4</a> <a href="https://t.co/tlO73HHDhV">pic.twitter.com/tlO73HHDhV</a></p>&mdash; Thomas Rackow (@thomas_rackow) <a href="https://twitter.com/thomas_rackow/status/1128935213453783040?ref_src=twsrc%5Etfw">May 16, 2019</a></blockquote>
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
+
 
 1. **Melting Stripes for Arctic and Antarctic sea ice** [Arctic](https://twitter.com/thomas_rackow/status/1122796983981309955?s=20) / [Antarctic](https://twitter.com/thomas_rackow/status/1149256624349077506?s=20)
     <div class="center">
@@ -242,13 +244,15 @@ Dimensions badges are only shown for papers with at least one citation; Altmetri
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
 
+
 1. **"Breaking the ice" illustration for the Year of Polar Prediction (YOPP)** [Link](https://twitter.com/polarprediction/status/620919545402933248)
 {:reversed="reversed"}
-    <div class="center">
+
+<div class="center">
     <!-- first tweet -->
     <blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/polarpredict?src=hash&amp;ref_src=twsrc%5Etfw">#polarpredict</a> <a href="http://t.co/QEx2WADgqm">pic.twitter.com/QEx2WADgqm</a></p>&mdash; Polar Prediction (@polarprediction) <a href="https://twitter.com/polarprediction/status/620919545402933248?ref_src=twsrc%5Etfw">July 14, 2015</a></blockquote>
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-    </div>
+</div>
 
 ### Scientific profiles / social media
 
