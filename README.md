@@ -212,6 +212,8 @@ Dimensions badges are only shown for papers with at least one citation; Altmetri
 
 ### Science Art
 
+{::options parse_block_html="false" /}
+
 1. Another "Flatten the Curve" illustration for Earth Day 2020 and the Scientists 4 Future [Link](https://twitter.com/thomas_rackow/status/1252965060210810880?s=20) / [Instagram](https://www.instagram.com/stories/highlights/18031720570259082/)
 
 1. Illustration for the Sea Ice Drift Forecast Experiment (SIDFEx) [Link](https://www.instagram.com/p/CALB26mq5c1/) / [ECMWF's twitter](https://twitter.com/ECMWF/status/1311960666920628224?s=20)
@@ -223,6 +225,13 @@ Dimensions badges are only shown for papers with at least one citation; Altmetri
 1. MOSAiC farewell illustration for Polarstern and Akademik Fedorov leaving Tromso in September 2019 [e.g. MOSAiC Mondays newsletter](https://mosaic.colorado.edu/education/mosaic-mondays/mosaic-monday-september-21-2020) / [Polarprediction](https://www.instagram.com/p/B2oExPho01S/?utm_source=ig_web_copy_link)
 
 1. Arctic sea ice decrease animation resembling the 1st ever image of a black hole [Link](https://twitter.com/thomas_rackow/status/1128935213453783040?s=20)
+
+<div class="center">
+
+<!-- first tweet -->
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">To communicate the <a href="https://twitter.com/hashtag/gravity?src=hash&amp;ref_src=twsrc%5Etfw">#gravity</a> of the situation, I visualised Arctic <a href="https://twitter.com/hashtag/seaice?src=hash&amp;ref_src=twsrc%5Etfw">#seaice</a> decrease resembling the 1st ever image of a <a href="https://twitter.com/hashtag/BlackHole?src=hash&amp;ref_src=twsrc%5Etfw">#BlackHole</a> <a href="https://twitter.com/ehtelescope?ref_src=twsrc%5Etfw">@ehtelescope</a>. Colors are brighter closer to the &quot;ice-free&quot; event horizon. <a href="https://twitter.com/hashtag/SeaIceMatters?src=hash&amp;ref_src=twsrc%5Etfw">#SeaIceMatters</a> <a href="https://twitter.com/hashtag/ClimateChangeSucks?src=hash&amp;ref_src=twsrc%5Etfw">#ClimateChangeSucks</a> <a href="https://twitter.com/AWI_Media?ref_src=twsrc%5Etfw">@AWI_media</a> <a href="https://twitter.com/ed_hawkins?ref_src=twsrc%5Etfw">@ed_hawkins</a> <a href="https://twitter.com/JannaLevin?ref_src=twsrc%5Etfw">@JannaLevin</a> <a href="https://twitter.com/ZLabe?ref_src=twsrc%5Etfw">@ZLabe</a> <a href="https://t.co/2IRoXjoMf4">https://t.co/2IRoXjoMf4</a> <a href="https://t.co/tlO73HHDhV">pic.twitter.com/tlO73HHDhV</a></p>&mdash; Thomas Rackow (@thomas_rackow) <a href="https://twitter.com/thomas_rackow/status/1128935213453783040?ref_src=twsrc%5Etfw">May 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- second tweet -->
+</div>
 
 1. Melting Stripes for Arctic and Antarctic sea ice [Arctic](https://twitter.com/thomas_rackow/status/1122796983981309955?s=20) / [Antarctic](https://twitter.com/thomas_rackow/status/1149256624349077506?s=20)
 
