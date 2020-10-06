@@ -220,6 +220,8 @@ Dimensions badges are only shown for papers with at least one citation; Altmetri
 
 1. The (Drawn) Distributed Network Around Polarstern, MOSAiC Expedition [Zenodo link](https://doi.org/10.5281/zenodo.3696853)
 
+1. MOSAiC farewell illustration for Polarstern and Akademik Fedorov leaving Tromso in September 2019 [e.g. MOSAiC Mondays newsletter](https://mosaic.colorado.edu/education/mosaic-mondays/mosaic-monday-september-21-2020) / [Polarprediction](https://www.instagram.com/p/B2oExPho01S/?utm_source=ig_web_copy_link)
+
 1. Arctic sea ice decrease animation resembling the 1st ever image of a black hole [Link](https://twitter.com/thomas_rackow/status/1128935213453783040?s=20)
 
 1. Melting Stripes for Arctic and Antarctic sea ice [Arctic](https://twitter.com/thomas_rackow/status/1122796983981309955?s=20) / [Antarctic](https://twitter.com/thomas_rackow/status/1149256624349077506?s=20)
