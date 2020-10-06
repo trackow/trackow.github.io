@@ -223,6 +223,7 @@ Dimensions badges are only shown for papers with at least one citation; Altmetri
 1. Melting Stripes for Arctic and Antarctic sea ice [Arctic](https://twitter.com/thomas_rackow/status/1122796983981309955?s=20) / [Antarctic](https://twitter.com/thomas_rackow/status/1149256624349077506?s=20)
 
 1. "Breaking the ice" illustration for the Year of Polar Prediction (YOPP) [Link](https://twitter.com/polarprediction/status/620919545402933248)
+{:reversed="reversed"}
    
 ### Scientific profiles / social media
 
