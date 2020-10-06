@@ -210,6 +210,19 @@ Dimensions badges are only shown for papers with at least one citation; Altmetri
 
 1. Cruise report about Leg1a of MOSAiC Expedition [chapter 5.4: Weather and Ice forecasts](https://epic.awi.de/id/eprint/52409/1/BzPM_0744_2020.pdf). **The Expedition AF122/1 - Setting up the MOSAiC Distributed Network in October 2019 with Research Vessel AKADEMIK FEDOROV**. Edited by T. Krumpen and V. Sokolov
 
+### Science Art
+
+1. Another "Flatten the Curve" illustration for Earth Day 2020 and the Scientists 4 Future [Link](https://twitter.com/thomas_rackow/status/1252965060210810880?s=20)
+
+1. Contributed the piece "Flatten the Curve" to a virtual exhibition in September 2020 organized by Pint of Science UK about COVID19 and Climate Change [Link to the virtual exhibition @ kunstmatrix](https://art.kunstmatrix.com/apps/artspaces/dist/index.html?timestamp=1599155829410#/?exhibition=2115625&language=en&splashscreen=false&hideBranding=false&returnURL=https:%2F%2Fpintofscience.co.uk%2Fcreativereactions%2F)
+
+1. The (Drawn) Distributed Network Around Polarstern, MOSAiC Expedition [Zenodo link](https://doi.org/10.5281/zenodo.3696853)
+
+1. Arctic sea ice decrease animation resembling the 1st ever image of a black hole [Link](https://twitter.com/thomas_rackow/status/1128935213453783040?s=20)
+
+1. Melting Stripes for Arctic and Antarctic sea ice [Arctic](https://twitter.com/thomas_rackow/status/1122796983981309955?s=20) / [Antarctic](https://twitter.com/thomas_rackow/status/1149256624349077506?s=20)
+
+1. "Breaking the ice" illustration for the Year of Polar Prediction (YOPP) [Link](https://twitter.com/polarprediction/status/620919545402933248)
    
 ### Scientific profiles / social media
 
