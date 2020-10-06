@@ -242,7 +242,7 @@ Dimensions badges are only shown for papers with at least one citation; Altmetri
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
 
-1. "Breaking the ice" illustration for the Year of Polar Prediction (YOPP) [Link](https://twitter.com/polarprediction/status/620919545402933248)
+1. **"Breaking the ice" illustration for the Year of Polar Prediction (YOPP)** [Link](https://twitter.com/polarprediction/status/620919545402933248)
 {:reversed="reversed"}
     <div class="center">
     <!-- first tweet -->
