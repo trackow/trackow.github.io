@@ -254,6 +254,10 @@ Dimensions badges are only shown for papers with at least one citation; Altmetri
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
+### Fieldwork 
+
+1. **Expedition AF122/1 - Setting up the MOSAiC Distributed Network around Polarstern in October 2019 with Research Vessel AKADEMIK DEDOROV during the MOSAiC expedition to the Central Arctic Ocean** / My roles: ice manager, (un)loading cargo operations / YOPP lecturer for MOSAiC School, see [Cruise Report chapter 5.4](https://epic.awi.de/id/eprint/52409/1/BzPM_0744_2020.pdf) / [Blogpost by Natalia Ribeiro](https://mosaic-expedition.org/mosaic-school-week-3/)
+
 ### Scientific profiles / social media
 
 [ORCiD profile](https://orcid.org/0000-0002-5468-575X) / [ResearchGate profile](https://www.researchgate.net/profile/Thomas_Rackow) / [Google Scholar profile](https://scholar.google.de/citations?user=P5Ebb8cAAAAJ&hl=eng) / [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=55764106200) / [AWI ePIC repository](https://epic.awi.de/view/ldapid/trackow.html) / [Twitter profile @thomas_rackow](https://twitter.com/thomas_rackow)
