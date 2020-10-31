@@ -11,6 +11,10 @@
 
 ### Research
 
+> Climate models are vital to understand and predict our changing Earth. I do my share by accounting for 
+> underrepresented ocean eddies, leads in sea ice, and entirely new model components that impact climate variability
+> (e.g. meltwater from drifting icebergs or stochasticity in the air-sea exchange) , so that we can be confident in our future decisions.
+
 ### Outreach / Blogposts / Interviews / Podcasts
 
 1. **A brief history of A68 - the world's largest iceberg**. [Link to the post @ EGU's Cryoblog](https://blogs.egu.eu/divisions/cr/2020/09/25/climate-change-cryosphere-a-brief-history-of-a68-the-worlds-largest-iceberg/)
