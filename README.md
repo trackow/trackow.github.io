@@ -9,11 +9,13 @@
 * TOC
 {:toc}
 
+
 ### Research
 
 > Climate models are vital to understand and predict our changing Earth. I do my share by accounting for 
 > underrepresented ocean eddies, leads in sea ice, and entirely new model components that impact climate variability
 > (e.g. meltwater from drifting icebergs or stochasticity in the air-sea exchange) , so that we can be confident in our future decisions.
+
 
 ### Outreach / Blogposts / Interviews / Podcasts
 
@@ -42,6 +44,7 @@
 1. **Can Antarctic icebergs solve South Africa's water crisis?** In IQ - Wissenschaft und Forschung. [Link to the (German) radio station](https://www.br.de/nachrichten/wissen/loesen-eisberge-aus-der-antarktis-suedafrikas-trinkwasserproblem,QrZsX8Q)
 {:reversed="reversed"}
 
+
 ### Submitted publications
 
 1. Starr, A., Hall, I.R.,  Barker, S., **Rackow, T.**, Zhang, X., Hemming, S.R., van der Lubbe, H.J.L, Knorr, G., Berke, M.A., Bigg, G.R., Cartagena, A., Jiminez-Espejo, F.J., Gong, X., Gruetzner, J., Lathika, N.,  LeVay, L.J., Robinson, R., Ziegler, M., Exp. 361 Science Party. **An Antarctic Iceberg Melt Driver of Glacial Deep Water-Mass Reorganizations**. Nature (under review)
@@ -50,6 +53,7 @@
 
 1. Barbat, M. M., **Rackow, T.**, Wesche, C., Hellmer, H. H., and Mata, M. M (**2020**): **Automated iceberg tracking with a machine learning approach applied to SAR imagery: A Weddell Sea case study**. _ISPRS Journal of Photogrammetry and Remote Sensing_ (in revision).
 {:reversed="reversed"}
+
 
 ### Peer-reviewed publications
 
@@ -210,9 +214,11 @@ _Journal of Advances in Modeling Earth Systems_, 11 (11), pp. 3794-3815. [link](
 
 Dimensions badges are only shown for papers with at least one citation; Altmetric badges are shown in addition for papers that received a high media attention (score of at least 20).
    
+   
 ### Other publications
 
 1. Cruise report about Leg1a of MOSAiC Expedition [chapter 5.4: Weather and Ice forecasts](https://epic.awi.de/id/eprint/52409/1/BzPM_0744_2020.pdf). **The Expedition AF122/1 - Setting up the MOSAiC Distributed Network in October 2019 with Research Vessel AKADEMIK FEDOROV**. Edited by T. Krumpen and V. Sokolov
+
 
 ### Science Art
 
@@ -258,15 +264,18 @@ Dimensions badges are only shown for papers with at least one citation; Altmetri
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
+
 ### Fieldwork 
 
 1. **Expedition AF122/1 - Setting up the MOSAiC Distributed Network around Polarstern in October 2019 with Research Vessel AKADEMIK DEDOROV during the MOSAiC expedition to the Central Arctic Ocean** / My roles: ice manager, (un)loading cargo operations / YOPP lecturer for MOSAiC School, see [Cruise Report chapter 5.4](https://epic.awi.de/id/eprint/52409/1/BzPM_0744_2020.pdf) / [Blogpost by Natalia Ribeiro](https://mosaic-expedition.org/mosaic-school-week-3/)
 
+
 ### Peer-reviewing activity
 
-For Journal of Climate, Nature Communications, Journal of Advances in Modeling Earth Systems, Scientific Reports, Ocean Modelling, Climate Dynamics
+For Journal of Climate, Nature Communications, Journal of Advances in Modeling Earth Systems, Scientific Reports, Ocean Modelling, Climate Dynamics, Polar Research
 
 [Verified peer-reviews at Publons](https://publons.com/researcher/3666613/thomas-rackow/peer-review/)
+
 
 ### Scientific profiles / social media
 
