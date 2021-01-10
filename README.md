@@ -19,6 +19,8 @@
 
 ### Outreach / Blogposts / Interviews / Podcasts
 
+1. **Animated simulated sea ice and ocean circulation for MOSAiC TV documentary**, with Viktor Stickel/bitteschoen.tv [Link to the TV documentary](https://www.daserste.de/information/reportage-dokumentation/erlebnis-erde/videos/expedition-arktis-video-100.html)
+
 1. **A brief history of A68 - the world's largest iceberg**. [Link to the post @ EGU's Cryoblog](https://blogs.egu.eu/divisions/cr/2020/09/25/climate-change-cryosphere-a-brief-history-of-a68-the-worlds-largest-iceberg/)
 
 1. **Happy birthday, A68!** [Link to the post @ AWI Eisblog](https://blogs.helmholtz.de/eisblog/2020/07/happy-birthday-a-68/)
@@ -56,6 +58,12 @@
 ### Peer-reviewed publications
 
 1. Barbat, M. M., **Rackow, T.**, Wesche, C., Hellmer, H. H., and Mata, M. M (**2021**): **Automated iceberg tracking with a machine learning approach applied to SAR imagery: A Weddell Sea case study**. _ISPRS Journal of Photogrammetry and Remote Sensing_ 172, [link](https://authors.elsevier.com/a/1cMa63I9x1cgfG)
+
+    <span class="__dimensions_badge_embed__" data-doi="10.1016/j.isprsjprs.2020.12.006" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
+    </span>
+    
+    <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.1016/j.isprsjprs.2020.12.006" data-hide-less-than="20">
+    </div>
 
     ---
     **2020**
