@@ -49,13 +49,19 @@
 
 ### Submitted publications
 
-1. Starr, A., Hall, I.R.,  Barker, S., **Rackow, T.**, Zhang, X., Hemming, S.R., van der Lubbe, H.J.L, Knorr, G., Berke, M.A., Bigg, G.R., Cartagena, A., Jiminez-Espejo, F.J., Gong, X., Gruetzner, J., Lathika, N.,  LeVay, L.J., Robinson, R., Ziegler, M., Exp. 361 Science Party. **An Antarctic Iceberg Melt Driver of Glacial Deep Water-Mass Reorganizations**. Nature (in press)
-
-1. **Rackow, T.**, Danilov, S., Goessling, H. F., Hellmer, H. H., Sein, D. V., Semmler, T., and Jung, T. (**2020**). **Antarctic sea ice decline delayed well into the 21st century in a high-resolution climate projection**. (in revision)
+1. **Rackow, T.**, Danilov, S., Goessling, H. F., Hellmer, H. H., Sein, D. V., Semmler, T., and Jung, T. (**2021**). **Antarctic sea ice decline delayed well into the 21st century in a high-resolution climate projection**. (in revision)
 {:reversed="reversed"}
 
 
 ### Peer-reviewed publications
+
+1. Starr, A., Hall, I.R.,  Barker, S., **Rackow, T.**, Zhang, X., Hemming, S.R., van der Lubbe, H.J.L, Knorr, G., Berke, M.A., Bigg, G.R., Cartagena, A., Jiminez-Espejo, F.J., Gong, X., Gruetzner, J., Lathika, N.,  LeVay, L.J., Robinson, R., Ziegler, M., Exp. 361 Science Party (**2021**): **Antarctic icebergs reorganize ocean circulation during Pleistocene glacials**. _Nature_ 589, 236-241 (2021). [link](https://doi.org/10.1038/s41586-020-03094-7)
+
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-020-03094-7" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
+    </span>
+    
+    <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.1038/s41586-020-03094-7" data-hide-less-than="20">
+    </div>
 
 1. Barbat, M. M., **Rackow, T.**, Wesche, C., Hellmer, H. H., and Mata, M. M (**2021**): **Automated iceberg tracking with a machine learning approach applied to SAR imagery: A Weddell Sea case study**. _ISPRS Journal of Photogrammetry and Remote Sensing_ 172, [link](https://authors.elsevier.com/a/1cMa63I9x1cgfG)
 
