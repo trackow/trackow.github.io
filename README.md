@@ -55,7 +55,7 @@
 
 ### Peer-reviewed publications
 
-1. Starr, A., Hall, I.R.,  Barker, S., **Rackow, T.**, Zhang, X., Hemming, S.R., van der Lubbe, H.J.L, Knorr, G., Berke, M.A., Bigg, G.R., Cartagena, A., Jiminez-Espejo, F.J., Gong, X., Gruetzner, J., Lathika, N.,  LeVay, L.J., Robinson, R., Ziegler, M., Exp. 361 Science Party (**2021**): **Antarctic icebergs reorganize ocean circulation during Pleistocene glacials**. _Nature_ 589, 236-241 (2021). [link](https://doi.org/10.1038/s41586-020-03094-7)
+1. Starr, A., Hall, I.R.,  Barker, S., **Rackow, T.**, Zhang, X., Hemming, S.R., van der Lubbe, H.J.L, Knorr, G., Berke, M.A., Bigg, G.R., Cartagena, A., Jiminez-Espejo, F.J., Gong, X., Gruetzner, J., Lathika, N.,  LeVay, L.J., Robinson, R., Ziegler, M., Exp. 361 Science Party (**2021**): **Antarctic icebergs reorganize ocean circulation during Pleistocene glacials**. _Nature_ 589, 236-241 (2021). [link](https://doi.org/10.1038/s41586-020-03094-7) / [Cardiff University press release](https://www.cardiff.ac.uk/news/view/2488697-melting-icebergs-key-to-sequence-of-an-ice-age,-scientists-find) / [AWI press release in German](https://www.awi.de/ueber-uns/service/presse/presse-detailansicht/wanderlustige-eisberge.html) / [AWI press release in English](https://www.awi.de/en/about-us/service/press/single-view/wandering-icebergs.html)
 
     <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-020-03094-7" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
     </span>
