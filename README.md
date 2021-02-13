@@ -35,7 +35,7 @@
 
 1. **How to predict the weather on a Russian icebreaker**. [Link to the post @ CU Boulder](https://mosaic.colorado.edu/news/how-predict-weather-russian-icebreaker) 
 
-1. **My 2017 iceberg study is a Scientific Highlight in the AWI "Kuratoriumsbericht"** [link](https://doi.org/10.1002/2016JC012513) / [Journal Highlight/Cover image](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/jgrc.21927/) | AGU top-downloaded paper / [AWI press release](https://www.awi.de/en/about-us/service/press/press-release/researchers-unravel-the-drivers-of-large-iceberg-movement.html) 
+1. **My 2017 iceberg study is a Scientific Highlight in the AWI "Kuratoriumsbericht"** [link](https://doi.org/10.1002/2016JC012513) / [Journal Highlight/Cover image](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/jgrc.21927/) / AGU top-downloaded paper / [AWI press release](https://www.awi.de/en/about-us/service/press/press-release/researchers-unravel-the-drivers-of-large-iceberg-movement.html) 
 
 1. **Where is the giant iceberg from the Larsen C Ice Shelf heading?** Interview in magazine of the Climate Sciences Division at the Alfred Wegener Institute [Link to the English PDF (p.42-45)](https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Besondere_Gruppen/Klimabuero/Material_Klimamagazin/RZ_AWI_Klimabro_E_low_RGB.pdf) [Deutsche Version (S.42-45)](https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Besondere_Gruppen/Klimabuero/Material_Klimamagazin/RZ_AWI_Klimabro_D_low_RGB_72dpi.pdf) / [Press release](https://www.awi.de/nc/en/about-us/service/press/press-release/awi-veroeffentlicht-magazin-zur-klimaforschung-in-arktis-und-antarktis.html)
 
