@@ -2,4 +2,4 @@ I am a postdoc and climate modeller at the Alfred Wegener Institute, Helmholtz C
 
 My scientific goal is to add previously missing features and processes (for example: [mesoscale ocean eddies](https://doi.org/10.5194/gmd-12-2635-2019), [stochasticity in air-sea fluxes](https://doi.org/10.1002/qj.3674), leads in sea ice, or the [drift](https://doi.org/10.1002/2016JC012513) and [melt of icebergs](https://doi.org/10.1038/s41586-020-03094-7)) to current climate and weather simulations. These additions will improve the predictions made by our models. 
 
-I am very interested in art and science communication and always looking for new creative ways to visualise climate change and its impacts for the public.
+I am very interested in art and science communication and always looking for new creative ways to visualise climate change and its impacts for the public. Click below to follow me on Twitter or Instagram.
