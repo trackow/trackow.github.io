@@ -19,6 +19,8 @@
 
 ### Outreach / Blogposts / Interviews / Podcasts
 
+1. **Art+Science** My melting stripes, inspired by the popular warming/climate stripes, are featured in the latest newsletter of the Year of Polar Prediction Project (YOPP) as design elements [Link to PolarPredictNews #17, page 30/31 for overview map](https://www.polarprediction.net/news/polarpredictnews/)
+
 1. **Live radio interview on National German radio** about the possible role of icebergs in transitioning between ice ages, Deutschlandfunk Kultur, in German [mp3 link](https://ondemand-mp3.dradio.de/file/dradio/2021/01/19/als_die_eisberge_weiter_wanderten_erkenntnisse_zur_drk_20210119_1737_8a8d7b94.mp3) / [link to our paper in Nature](https://doi.org/10.1038/s41586-020-03094-7) / [link to radio station](https://www.deutschlandfunkkultur.de/audio-archiv.517.de.html?drau%5Bsubmit%5D=1&drau%5Bsearchterm%5D=Rackow&drau%5Bfrom%5D=&drau%5Bto%5D=&drau%5Bbroadcast_id%5D=)
 
 1. **Animated simulated sea ice and ocean circulation for MOSAiC TV documentary**, with Viktor Stickel/bitteschoen.tv [Link to the TV documentary](https://www.daserste.de/information/reportage-dokumentation/erlebnis-erde/videos/expedition-arktis-video-100.html) / [The documentary is nominated for the German "Grimme-Preis 2021"](https://www.ufa.de/presse/57-grimme-preis-expedition-arktis-in-der-kategorie-information-kultur-nominiert)
@@ -246,6 +248,8 @@ Dimensions badges are only shown for papers with at least one citation; Altmetri
 ### Science Art
 
 {::options parse_block_html="false" /}
+
+1. <div class="center"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">My <a href="https://twitter.com/hashtag/SciArt?src=hash&amp;ref_src=twsrc%5Etfw">#SciArt</a> is featured in the latest <a href="https://twitter.com/polarprediction?ref_src=twsrc%5Etfw">@polarprediction</a> magazine 🥳 edited by <a href="https://twitter.com/kirstinwerner?ref_src=twsrc%5Etfw">@kirstinwerner</a> <br><br>&quot;Melting-stripes&quot; for <a href="https://twitter.com/hashtag/Arctic?src=hash&amp;ref_src=twsrc%5Etfw">#Arctic</a> and <a href="https://twitter.com/hashtag/Antarctic?src=hash&amp;ref_src=twsrc%5Etfw">#Antarctic</a> <a href="https://twitter.com/hashtag/seaice?src=hash&amp;ref_src=twsrc%5Etfw">#seaice</a> inspired by the popular climate stripes <a href="https://twitter.com/ed_hawkins?ref_src=twsrc%5Etfw">@ed_hawkins</a> <a href="https://twitter.com/alxrdk?ref_src=twsrc%5Etfw">@alxrdk</a> <a href="https://twitter.com/hashtag/ShowYourStripes?src=hash&amp;ref_src=twsrc%5Etfw">#ShowYourStripes</a> ▶️ <a href="https://t.co/zYdOS10D3i">https://t.co/zYdOS10D3i</a> <a href="https://t.co/tK9sUqMW0B">https://t.co/tK9sUqMW0B</a> <a href="https://t.co/T330uwbhHF">pic.twitter.com/T330uwbhHF</a></p>&mdash; Thomas Rackow 🧊 (@thomas_rackow) <a href="https://twitter.com/thomas_rackow/status/1366379886957522945?ref_src=twsrc%5Etfw">March 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
 1. Another **"Flatten the Curve" illustration for Earth Day 2020 and the Scientists 4 Future** [Link](https://twitter.com/thomas_rackow/status/1252965060210810880?s=20) / [Instagram](https://www.instagram.com/stories/highlights/18031720570259082/)
 
