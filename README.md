@@ -21,7 +21,7 @@
 
 1. **Live radio interview on National German radio** about the possible role of icebergs in transitioning between ice ages, Deutschlandfunk Kultur, in German [mp3 link](https://ondemand-mp3.dradio.de/file/dradio/2021/01/19/als_die_eisberge_weiter_wanderten_erkenntnisse_zur_drk_20210119_1737_8a8d7b94.mp3) / [link to our paper in Nature](https://doi.org/10.1038/s41586-020-03094-7) / [link to radio station](https://www.deutschlandfunkkultur.de/audio-archiv.517.de.html?drau%5Bsubmit%5D=1&drau%5Bsearchterm%5D=Rackow&drau%5Bfrom%5D=&drau%5Bto%5D=&drau%5Bbroadcast_id%5D=)
 
-1. **Animated simulated sea ice and ocean circulation for MOSAiC TV documentary**, with Viktor Stickel/bitteschoen.tv [Link to the TV documentary](https://www.daserste.de/information/reportage-dokumentation/erlebnis-erde/videos/expedition-arktis-video-100.html)
+1. **Animated simulated sea ice and ocean circulation for MOSAiC TV documentary**, with Viktor Stickel/bitteschoen.tv [Link to the TV documentary](https://www.daserste.de/information/reportage-dokumentation/erlebnis-erde/videos/expedition-arktis-video-100.html) / [The documentary is nominated for the German "Grimme-Preis 2021"](https://www.ufa.de/presse/57-grimme-preis-expedition-arktis-in-der-kategorie-information-kultur-nominiert)
 
 1. **A brief history of A68 - the world's largest iceberg**. [Link to the post @ EGU's Cryoblog](https://blogs.egu.eu/divisions/cr/2020/09/25/climate-change-cryosphere-a-brief-history-of-a68-the-worlds-largest-iceberg/)
 
