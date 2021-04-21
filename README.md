@@ -55,7 +55,7 @@
 
 ### Submitted publications
 
-1. Sidorenko, D., Danilov, S., Streffing, J., Fofonova, V., Goessling, H. F., Wang, Q., CabosNarvaez, W. D., Juricke, S., Koldunov, N. V., **Rackow, T.**, Scholz, P., Sein, D. V., Jung, T. (2021). **AMOC variability and watermass transformations in the AWI climate model** (submitted to Journal of Advances in Modeling Earth Systems)
+1. Sidorenko, D., Danilov, S., Streffing, J., Fofonova, V., Goessling, H. F., Wang, Q., CabosNarvaez, W. D., Juricke, S., Koldunov, N. V., **Rackow, T.**, Scholz, P., Sein, D. V., Jung, T. (2021). **AMOC variability and watermass transformations in the AWI climate model** (submitted to Journal of Advances in Modeling Earth Systems) / [link to preprint at ESSOAr](https://www.essoar.org/doi/pdf/10.1002/essoar.10506856.1)
 
 1. **Rackow, T.**, Danilov, S., Goessling, H. F., Hellmer, H. H., Sein, D. V., Semmler, T., and Jung, T. (**2021**). **Antarctic sea ice decline delayed well into the 21st century in a high-resolution climate projection**. (in revision)
 {:reversed="reversed"}
