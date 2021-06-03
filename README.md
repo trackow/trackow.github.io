@@ -242,6 +242,8 @@ Dimensions badges are only shown for papers with at least one citation; Altmetri
    
 ### Other publications
 
+1. **Contributing author for the BMBF Polarforschungsagenda**, POLARREGIONEN IM WANDEL, Konzeptpapier des Mare:N-Begleitkreises [PDF](https://www.fona.de/medien/pdf/Forschungsagenda_Polarregionen_Konzeptpapier_des_MAREN_Begleitkreises_Mai_2021.pdf)
+
 1. A set of illustrations for the kids story **Endangered - But Still There Is Hope** by Dr. Stephan Juricke, February 2021, in Volume II of the book series **Once upon a time...  a scientific fairy tale**. [PDF](https://sites.google.com/view/onceuponatime-scientific-story/downloads/)
 
 1. Cruise report about Leg1a of MOSAiC Expedition [chapter 5.4: Weather and Ice forecasts](https://epic.awi.de/id/eprint/52409/1/BzPM_0744_2020.pdf). **The Expedition AF122/1 - Setting up the MOSAiC Distributed Network in October 2019 with Research Vessel AKADEMIK FEDOROV**. Edited by T. Krumpen and V. Sokolov / [ePIC entry](https://epic.awi.de/id/eprint/52409/)
