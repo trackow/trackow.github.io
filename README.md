@@ -127,7 +127,7 @@
     <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.1029/2019EA001065" data-hide-less-than="20">
     </div>
 
-1. Roach, L. A., Dörr, J., Holmes, C. R., Massonnet, F., Blockley, E. W., Notz, D., **Rackow, T.**, Raphael, M. N., O'Farrell S. P., Bailey, D. A., Bitz, C. M. (**2020**): **Antarctic sea ice area in CMIP6**. _Geophysical Research Letters_, 47, e2019GL086729. [doi:10.1029/2019GL086729](https://doi.org/10.1029/2019GL086729)
+1. Roach, L. A., Dörr, J., Holmes, C. R., Massonnet, F., Blockley, E. W., Notz, D., **Rackow, T.**, Raphael, M. N., O'Farrell S. P., Bailey, D. A., Bitz, C. M. (**2020**): **Antarctic sea ice area in CMIP6**. _Geophysical Research Letters_, 47, e2019GL086729. [doi:10.1029/2019GL086729](https://doi.org/10.1029/2019GL086729) | AGU top 10% most-downloaded paper 2020
 
     <span class="__dimensions_badge_embed__" data-doi="10.1029/2019GL086729" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
     </span>
