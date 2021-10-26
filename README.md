@@ -59,15 +59,15 @@
 
 1. Semmler, T., Jungclaus, J., Danek, C., Goessling, H.F., Koldunov, N., **Rackow, T.**, Sidorenko, D.: **Ocean model formulation influences transient climate response**. [link to preprint at ESSOAr](https://www.essoar.org/doi/abs/10.1002/essoar.10507255.1)
 
-1. Sidorenko, D., Danilov, S., Streffing, J., Fofonova, V., Goessling, H. F., Wang, Q., CabosNarvaez, W. D., Juricke, S., Koldunov, N. V., **Rackow, T.**, Scholz, P., Sein, D. V., Jung, T. (2021). **AMOC variability and watermass transformations in the AWI climate model** (submitted to Journal of Advances in Modeling Earth Systems) / [link to preprint at ESSOAr](https://www.essoar.org/doi/abs/10.1002/essoar.10506856.1), accepted.
-
 1. **Rackow, T.**, Danilov, S., Goessling, H. F., Hellmer, H. H., Sein, D. V., Semmler, T., Sidorenko, D., and Jung, T. (**2021**). **Antarctic sea ice decline delayed well into the 21st century in a high-resolution climate projection**. (in revision)
 {:reversed="reversed"}
 
 
 ### Peer-reviewed publications
 
-1. Starr, A., Hall, I.R.,  Barker, S., **Rackow, T.**, Zhang, X., Hemming, S.R., van der Lubbe, H.J.L, Knorr, G., Berke, M.A., Bigg, G.R., Cartagena, A., Jiminez-Espejo, F.J., Gong, X., Gruetzner, J., Lathika, N.,  LeVay, L.J., Robinson, R., Ziegler, M., Exp. 361 Science Party (**2021**): **Antarctic icebergs reorganize ocean circulation during Pleistocene glacials**. _Nature_ 589, 236-241 (2021). [link](https://doi.org/10.1038/s41586-020-03094-7) / [Cardiff University press release](https://www.cardiff.ac.uk/news/view/2488697-melting-icebergs-key-to-sequence-of-an-ice-age,-scientists-find) / [AWI press release in German](https://www.awi.de/ueber-uns/service/presse/presse-detailansicht/wanderlustige-eisberge.html) / [AWI press release in English](https://www.awi.de/en/about-us/service/press/single-view/wandering-icebergs.html)
+1. Sidorenko, D., Danilov, S., Streffing, J., Fofonova, V., Goessling, H. F., Wang, Q., CabosNarvaez, W. D., Juricke, S., Koldunov, N. V., **Rackow, T.**, Scholz, P., Sein, D. V., Jung, T. **(2021)**. **AMOC variability and watermass transformations in the AWI climate model**. _Journal of Advances in Modeling Earth Systems_ 13, e2021MS002582 / [link](https://doi.org/10.1029/2021MS002582)
+
+1. Starr, A., Hall, I.R.,  Barker, S., **Rackow, T.**, Zhang, X., Hemming, S.R., van der Lubbe, H.J.L, Knorr, G., Berke, M.A., Bigg, G.R., Cartagena, A., Jiminez-Espejo, F.J., Gong, X., Gruetzner, J., Lathika, N.,  LeVay, L.J., Robinson, R., Ziegler, M., Exp. 361 Science Party (**2021**): **Antarctic icebergs reorganize ocean circulation during Pleistocene glacials**. _Nature_ 589, 236-241. [link](https://doi.org/10.1038/s41586-020-03094-7) / [Cardiff University press release](https://www.cardiff.ac.uk/news/view/2488697-melting-icebergs-key-to-sequence-of-an-ice-age,-scientists-find) / [AWI press release in German](https://www.awi.de/ueber-uns/service/presse/presse-detailansicht/wanderlustige-eisberge.html) / [AWI press release in English](https://www.awi.de/en/about-us/service/press/single-view/wandering-icebergs.html)
 
     <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-020-03094-7" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
     </span>
