@@ -57,7 +57,8 @@
 
 ### Submitted publications
 
-1. **Rackow, T.**, Danilov, S., Goessling, H. F., Hellmer, H. H., Sein, D. V., Semmler, T., Sidorenko, D., and Jung, T. (**2021**). **Antarctic sea ice decline delayed well into the 21st century in a high-resolution climate projection**. (in revision){:reversed="reversed"}
+1. **Rackow, T.**, Danilov, S., Goessling, H. F., Hellmer, H. H., Sein, D. V., Semmler, T., Sidorenko, D., and Jung, T. (**2021**). **Antarctic sea ice decline delayed well into the 21st century in a high-resolution climate projection**. (in revision) / [![DOI](https://zenodo.org/badge/425112808.svg)](https://zenodo.org/badge/latestdoi/425112808)
+{:reversed="reversed"}
 
 ### Peer-reviewed publications
 
