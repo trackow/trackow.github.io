@@ -57,12 +57,21 @@
 
 ### Submitted publications
 
-1. **Rackow, T.**, Danilov, S., Goessling, H. F., Hellmer, H. H., Sein, D. V., Semmler, T., Sidorenko, D., and Jung, T. (**2021**). **Antarctic sea ice decline delayed well into the 21st century in a high-resolution climate projection**. (in revision) / [![DOI](https://zenodo.org/badge/425112808.svg)](https://zenodo.org/badge/latestdoi/425112808)
+1. Beech, N., Jung, T., Semmler, T., Rackow, T., Wang, Q., and Danilov. S. **Long-term Evolution of Eddying Oceans in a Warming World** (in revision)
 {:reversed="reversed"}
 
 ### Peer-reviewed publications
 
-1. Semmler, T., Jungclaus, J., Danek, C., Goessling, H.F., Koldunov, N., **Rackow, T.**, Sidorenko, D.: **Ocean model formulation influences transient climate response**. _Journal of Geophysical Research: Oceans_, 126, e2021JC017633. [link](https://doi.org/10.1029/2021JC017633) /
+1. **Rackow, T.**, Danilov, S., Goessling, H. F., Hellmer, H. H., Sein, D. V., Semmler, T., Sidorenko, D., and Jung, T. (**2021**). **Delayed Antarctic sea-ice decline in high-resolution climate change simulations**. _Nature Communications_ **13**, 637 (**2022**). [link](https://doi.org/10.1038/s41467-022-28259-y) 
+/ [![DOI](https://zenodo.org/badge/425112808.svg)](https://zenodo.org/badge/latestdoi/425112808) / [AWI press release in German](https://www.awi.de/ueber-uns/service/presse/presse-detailansicht/ozeanwirbel-koennten-antarktisches-meereis-paradoxon-erklaeren.html) / [AWI press release in English](https://www.awi.de/en/about-us/service/press/single-view/ozeanwirbel-koennten-antarktisches-meereis-paradoxon-erklaeren.html)
+
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-022-28259-y" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
+    </span>
+    
+    <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.1038/s41467-022-28259-y" data-hide-less-than="20">
+    </div>
+
+1. Semmler, T., Jungclaus, J., Danek, C., Goessling, H.F., Koldunov, N., **Rackow, T.**, Sidorenko, D. (**2021**): **Ocean model formulation influences transient climate response**. _Journal of Geophysical Research: Oceans_, 126, e2021JC017633. [link](https://doi.org/10.1029/2021JC017633) /
 
     <span class="__dimensions_badge_embed__" data-doi="10.1029/2021JC017633" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
     </span>
