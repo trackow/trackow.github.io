@@ -57,8 +57,12 @@
 
 ### Submitted publications
 
-1. Beech, N., Jung, T., Semmler, T., Rackow, T., Wang, Q., and Danilov. S. **Long-term Evolution of Eddying Oceans in a Warming World** (in revision)
+1. Will be updated soon.
 {:reversed="reversed"}
+<!---
+1. Authors. **Title** (in revision)
+{:reversed="reversed"}
+-->
 
 ### Peer-reviewed publications
 
