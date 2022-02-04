@@ -64,7 +64,6 @@
 
 1. **Rackow, T.**, Danilov, S., Goessling, H. F., Hellmer, H. H., Sein, D. V., Semmler, T., Sidorenko, D., and Jung, T. (**2021**). **Delayed Antarctic sea-ice decline in high-resolution climate change simulations**. _Nature Communications_ **13**, 637 (**2022**). [link](https://doi.org/10.1038/s41467-022-28259-y) 
 / [![DOI](https://zenodo.org/badge/425112808.svg)](https://zenodo.org/badge/latestdoi/425112808) / [AWI press release in German](https://www.awi.de/ueber-uns/service/presse/presse-detailansicht/ozeanwirbel-koennten-antarktisches-meereis-paradoxon-erklaeren.html) / [AWI press release in English](https://www.awi.de/en/about-us/service/press/single-view/ozeanwirbel-koennten-antarktisches-meereis-paradoxon-erklaeren.html)
-
     <span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-022-28259-y" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
     </span>
     
