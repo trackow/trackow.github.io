@@ -57,7 +57,9 @@
 
 ### Submitted publications
 
-1. Will be updated soon.
+1. Streffing, J., Sidorenko, D., Semmler, T., Zampieri, L., Scholz, P., Andrés-Martínez, M., Koldunov, N., **Rackow, T.**, Kjellsson, J., Goessling, H., Athanase, M., Wang, Q., Sein, D., Mu, L., Fladrich, U., Barbi, D., Gierz, P., Danilov, S., Juricke, S., Lohmann, G., and Jung, T. (**2022**): **AWI-CM3 coupled climate model: Description and evaluation experiments for a prototype post-CMIP6 model**, _EGUsphere_ [preprint], [link](https://doi.org/10.5194/egusphere-2022-32), 2022
+
+2. Beech, N., **Rackow, T.**, Semmler, T., Danilov, S., Wang, Q., and Jung, T. (2022): **Long-term Evolution of Ocean Eddy Activity in a Warming World**
 {:reversed="reversed"}
 <!---
 1. Authors. **Title** (in revision)
