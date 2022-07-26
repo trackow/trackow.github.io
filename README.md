@@ -345,9 +345,15 @@ Dimensions badges are only shown for papers with at least one citation; Altmetri
 
 ### Peer-reviewing activity
 
-For Journal of Climate, Nature Communications, Journal of Advances in Modeling Earth Systems, Scientific Reports, Ocean Modelling, Climate Dynamics, Polar Research
+Reviewer for Journal of Climate, Nature Communications, Journal of Advances in Modeling Earth Systems, Scientific Reports, Ocean Modelling, Climate Dynamics, Polar Research; Review Editor at Frontiers in Marine Science
 
-[Verified peer-reviews at Publons](https://publons.com/researcher/3666613/thomas-rackow/peer-review/)
+[Verified peer-reviews at Publons](https://publons.com/researcher/3666613/thomas-rackow/peer-review/) / [Review Editor at Frontiers in Marine Science](https://loop.frontiersin.org/people/1723503/bio)
+
+
+### Panels and other responsibilities
+
+nextGEMS Executive Board member
+nextGEMS ECS representative
 
 
 ### Scientific profiles / social media
@@ -355,4 +361,4 @@ For Journal of Climate, Nature Communications, Journal of Advances in Modeling E
 <div itemscope itemtype="https://schema.org/Person">
     <a itemprop="sameAs" content="https://orcid.org/0000-0002-5468-575X" href="https://orcid.org/0000-0002-5468-575X" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-5468-575X</a>
 </div>
-[Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=55764106200) / [Web Of Science ResearcherID](https://publons.com/researcher/AAP-2735-2020/) / [ResearchGate profile](https://www.researchgate.net/profile/Thomas_Rackow) / [Google Scholar profile](https://scholar.google.de/citations?user=P5Ebb8cAAAAJ&hl=eng) / [AWI ePIC repository](https://epic.awi.de/view/ldapid/trackow.html) / [Twitter profile @thomas_rackow](https://twitter.com/thomas_rackow) / [LinkedIn](www.linkedin.com/in/thomas-rackow)
+[Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=55764106200) / [Web Of Science ResearcherID](https://publons.com/researcher/AAP-2735-2020/) / [ResearchGate profile](https://www.researchgate.net/profile/Thomas_Rackow) / [Google Scholar profile](https://scholar.google.de/citations?user=P5Ebb8cAAAAJ&hl=eng) / [AWI ePIC repository](https://epic.awi.de/view/ldapid/trackow.html) / [Twitter profile @thomas_rackow](https://twitter.com/thomas_rackow) / [LinkedIn](www.linkedin.com/in/thomas-rackow) / [Loop](https://loop.frontiersin.org/people/1723503/bio)
