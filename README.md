@@ -19,6 +19,8 @@
 
 ### Outreach / Blogposts / Interviews / Podcasts
 
+1. Invited talk at ExtremWetterKongress 2022 in Hamburg, Germany. See my German talk on [YouTube](https://www.youtube.com/watch?v=OSgvIOBthd0&t=11383s)
+
 1. Modelling expert at **Potsdam Summer School 2021**, https://potsdam-summer-school.org, 18 August 2021.
 
 1. **Art+Science** My melting stripes, inspired by the popular warming/climate stripes, are featured in the latest newsletter of the Year of Polar Prediction Project (YOPP) as design elements [Link to PolarPredictNews #17, page 30/31 for overview map](https://www.polarprediction.net/news/polarpredictnews/)
