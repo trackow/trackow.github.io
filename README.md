@@ -19,7 +19,7 @@
 
 ### Outreach / Blogposts / Interviews / Podcasts
 
-1. Invited talk at ExtremWetterKongress 2022 in Hamburg, Germany. See my German talk on [YouTube](https://www.youtube.com/watch?v=OSgvIOBthd0&t=11383s)
+1. Invited talk at **ExtremWetterKongress 2022** in Hamburg, Germany. See my German talk on [YouTube](https://www.youtube.com/watch?v=OSgvIOBthd0&t=11383s)
 
 1. Modelling expert at **Potsdam Summer School 2021**, https://potsdam-summer-school.org, 18 August 2021.
 
@@ -60,8 +60,6 @@
 ### Submitted publications
 
 1. Streffing, J., Sidorenko, D., Semmler, T., Zampieri, L., Scholz, P., Andrés-Martínez, M., Koldunov, N., **Rackow, T.**, Kjellsson, J., Goessling, H., Athanase, M., Wang, Q., Sein, D., Mu, L., Fladrich, U., Barbi, D., Gierz, P., Danilov, S., Juricke, S., Lohmann, G., and Jung, T. (**2022**): **AWI-CM3 coupled climate model: Description and evaluation experiments for a prototype post-CMIP6 model**, _EGUsphere_ [preprint], [link](https://doi.org/10.5194/egusphere-2022-32), 2022
-
-2. Beech, N., **Rackow, T.**, Semmler, T., Danilov, S., Wang, Q., and Jung, T. (2022): **Long-term Evolution of Ocean Eddy Activity in a Warming World**
 {:reversed="reversed"}
 <!---
 1. Authors. **Title** (in revision)
@@ -70,6 +68,21 @@
 
 ### Peer-reviewed publications
 
+1. Beech, N., **Rackow, T.**, Semmler, T., Danilov, S., Wang, Q., and Jung, T. (**2022**): **Long-term evolution of ocean eddy activity in a warming world**
+[link](https://doi.org/10.1038/s41558-022-01478-3) / [Nature Editorial including our paper](https://www.nature.com/articles/s41558-022-01500-8) / [News & Views comment](https://www.nature.com/articles/s41558-022-01488-1) / [AWI press release in German](https://www.awi.de/ueber-uns/service/presse/presse-detailansicht/default-1573386284.html) / [AWI press release in English](https://www.awi.de/en/about-us/service/press/single-view/default-1573386284.html)
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41558-022-01478-3" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
+    </span>
+    
+    <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.1038/s41558-022-01478-3" data-hide-less-than="20">
+    </div>
+    
+1. Streffing, J., Sidorenko, D., Semmler, T., Zampieri, L., Scholz, P., Andrés-Martínez, M., Koldunov, N., **Rackow, T.**, Kjellsson, J., Goessling, H., Athanase, M., Wang, Q., Sein, D., Mu, L., Fladrich, U., Barbi, D., Gierz, P., Danilov, S., Juricke, S., Lohmann, G., and Jung, T. (**2022**): **AWI-CM3 coupled climate model: description and evaluation experiments for a prototype post-CMIP6 model**, _Geosci. Model Dev._, **15**, 6399–6427, https://doi.org/10.5194/gmd-15-6399-2022, 2022
+<span class="__dimensions_badge_embed__" data-doi="10.5194/gmd-15-6399-2022" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
+    </span>
+    
+    <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.5194/gmd-15-6399-2022" data-hide-less-than="20">
+    </div>
+ 
 1. **Rackow, T.**, Danilov, S., Goessling, H. F., Hellmer, H. H., Sein, D. V., Semmler, T., Sidorenko, D., and Jung, T. (**2022**). **Delayed Antarctic sea-ice decline in high-resolution climate change simulations**. _Nature Communications_ **13**, 637. [link](https://doi.org/10.1038/s41467-022-28259-y) 
 / [![DOI](https://zenodo.org/badge/425112808.svg)](https://zenodo.org/badge/latestdoi/425112808) / [AWI press release in German](https://www.awi.de/ueber-uns/service/presse/presse-detailansicht/ozeanwirbel-koennten-antarktisches-meereis-paradoxon-erklaeren.html) / [AWI press release in English](https://www.awi.de/en/about-us/service/press/single-view/ozeanwirbel-koennten-antarktisches-meereis-paradoxon-erklaeren.html)
     <span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-022-28259-y" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
