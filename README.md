@@ -19,7 +19,7 @@
 
 ### Outreach / Blogposts / Interviews / Podcasts
 
-1. **Highlight presentation at EGU 2023** in Vienna, Austria. Check the abstract and material [on the EGU website](https://doi.org/10.5194/egusphere-egu23-16453)
+1. **Highlight presentation at EGU 2023** in Vienna, Austria, "Storm- and eddy-resolving simulations with IFS-FESOM/NEMO at the kilometre scale". Check the abstract and material [on the EGU website](https://doi.org/10.5194/egusphere-egu23-16453), [doi:10.5194/egusphere-egu23-16453](https://doi.org/10.5194/egusphere-egu23-16453)
 
 1. Invited talk at **ExtremWetterKongress 2022** in Hamburg, Germany. See my German talk on [YouTube](https://www.youtube.com/watch?v=OSgvIOBthd0&t=11383s)
 
