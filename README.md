@@ -63,7 +63,9 @@
 
 ### Submitted publications
 
-1. N. Beech, **T. Rackow**, T. Semmler, and T. Jung (2023): **Resolving the mesoscale at reduced computational cost with FESOM 2.5: efficient modeling approaches applied to the Southern Ocean**, _EGUsphere_ [preprint](https://doi.org/10.5194/egusphere-2023-1496)
+1. B. Rabe, C. J. Cox, YC. Fang, H. F. Goessling, M. A. Granskog, M. Hoppmann, J. K. Hutchings, T. Krumpen, I. Kuznetsov, R. Lei, T. Li, W. Maslowski, M. Nicolaus, D. Perovich, O. Persson, J. Regnery, I. Rigor, M. D. Shupe, V. Sokolov, G. Spreen, T. Stanton, D. M. Watkins, E. Blockley, H. J. Buenger, S. Cole, A. Fong, J. Haapala, C. Heuzé, C. J. M. Hoppe, M. Janout, A. Jutila, C. Katlein, R. Krishfield, L. Lin, V. Ludwig, A. Morgenstern, J. O'Brien, A. Q. Zurita, **T. Rackow**, K. Riemann-Campe, A. Rinke, J. Rohde, W. Shaw, V. Smolyanitsky, A. Solomon, A. Sperling, R. Tao, J. Toole, M. Tsamados, J. Zhu, G. Zuo (**2023**): **The MOSAiC Distributed Network: observing the coupled Arctic system with multidisciplinary coordinated platforms**
+   
+1. N. Beech, **T. Rackow**, T. Semmler, and T. Jung (**2023**): **Resolving the mesoscale at reduced computational cost with FESOM 2.5: efficient modeling approaches applied to the Southern Ocean**, _EGUsphere_ [preprint](https://doi.org/10.5194/egusphere-2023-1496)
 {:reversed="reversed"}
 <!---
 1. Authors. **Title** (in revision)
