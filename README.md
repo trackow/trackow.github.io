@@ -63,7 +63,7 @@
 
 ### Submitted publications
 
-1. Streffing, J., Sidorenko, D., Semmler, T., Zampieri, L., Scholz, P., Andrés-Martínez, M., Koldunov, N., **Rackow, T.**, Kjellsson, J., Goessling, H., Athanase, M., Wang, Q., Sein, D., Mu, L., Fladrich, U., Barbi, D., Gierz, P., Danilov, S., Juricke, S., Lohmann, G., and Jung, T. (**2022**): **AWI-CM3 coupled climate model: Description and evaluation experiments for a prototype post-CMIP6 model**, _EGUsphere_ [preprint], [link](https://doi.org/10.5194/egusphere-2022-32), 2022
+1. N. Beech, **T. Rackow**, T. Semmler, and T. Jung (2023): **Resolving the mesoscale at reduced computational cost with FESOM 2.5: efficient modeling approaches applied to the Southern Ocean**, _EGUsphere_ [preprint](https://doi.org/10.5194/egusphere-2023-1496)
 {:reversed="reversed"}
 <!---
 1. Authors. **Title** (in revision)
