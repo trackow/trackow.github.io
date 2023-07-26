@@ -293,6 +293,8 @@ Dimensions badges are only shown for papers with at least one citation; Altmetri
    
 ### Other publications
 
+1. **Fixing water and energy budget imbalances in the Integrated Forecasting System**. Becker, T., **Rackow, T.**, Pedruzo, X., Sandu, I., Forbes, R., Diamantakis, M., Bechtold, P., and Polichtchouk, I. (2022). ECMWF newsletter, Number 172. [Read it](https://www.ecmwf.int/en/newsletter/172/news/fixing-water-and-energy-budget-imbalances-integrated-forecasting-system)
+
 1. **Contributing author for the BMBF Polarforschungsagenda**, POLARREGIONEN IM WANDEL, Konzeptpapier des Mare:N-Begleitkreises [PDF](https://www.fona.de/medien/pdf/Forschungsagenda_Polarregionen_Konzeptpapier_des_MAREN_Begleitkreises_Mai_2021.pdf)
 
 1. A set of illustrations for the kids story **Endangered - But Still There Is Hope** by Dr. Stephan Juricke, February 2021, in Volume II of the book series **Once upon a time...  a scientific fairy tale**. [PDF](https://sites.google.com/view/onceuponatime-scientific-story/downloads/)
