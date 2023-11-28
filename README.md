@@ -19,6 +19,8 @@
 
 ### Outreach / Blogposts / Interviews / Podcasts
 
+1. **Scrollytelling news story about iceberg A23a**, the giant that calved in 1986 and stayed grounded for more than 3 decades, in [Sueddeutsche Zeitung](https://www.sueddeutsche.de/projekte/artikel/wissen/eisberg-antarktis-a23a-e962962/). 
+
 1. **IFS-FESOM nextGEMS overview presentation** at Universidad Complutense Madrid, Spain, "Developments from Cycle 2 to Cycle 3 in IFS-FESOM", Cycle 3 Hackathon, 29 May - 2nd June 2023.
 
 1. **Highlight presentation at EGU 2023** in Vienna, Austria, "Storm- and eddy-resolving simulations with IFS-FESOM/NEMO at the kilometre scale". Check the abstract and material [on the EGU website](https://doi.org/10.5194/egusphere-egu23-16453), [doi:10.5194/egusphere-egu23-16453](https://doi.org/10.5194/egusphere-egu23-16453)
