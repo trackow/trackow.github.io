@@ -19,7 +19,7 @@
 
 ### Outreach / Blogposts / Interviews / Podcasts
 
-1. **Researcher video profile for nextGEMS** with Latest Thinking [](https://lt.org/embed/expert/516cf41c-d825-452e-8129-7730e67c8864)
+1. **Researcher video profile for nextGEMS** with Latest Thinking [video](https://lt.org/embed/expert/516cf41c-d825-452e-8129-7730e67c8864)
    
 1. **Scrollytelling news story about iceberg A23a**, the giant that calved in 1986 and stayed grounded for more than 3 decades, in [Sueddeutsche Zeitung](https://www.sueddeutsche.de/projekte/artikel/wissen/eisberg-antarktis-a23a-e962962/). 
 
