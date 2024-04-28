@@ -71,8 +71,6 @@
 
 1. **Rackow, T.**, Pedruzo-Bagazgoitia, X., Becker, T., Milinski, S., Sandu, I., Aguridan, R., Bechtold, P., Beyer, S., Bidlot, J., Boussetta, S., Diamantakis, M., Dueben, P., Dutra, E., Forbes, R., Goessling, H. F., Hadade, I., Hegewald, J., Keeley, S., Kluft, L., Koldunov, N., Koldunov, A., Kölling, T., Kousal, J., Mogensen, K., Quintino, T., Polichtchouk, I., Sármány, D., Sidorenko, D., Streffing, J., Sützl, B., Takasuka, D., Tietsche, S., Valentini, M., Vannière, B., Wedi, N., Zampieri, L., and Ziemen, F.: **Multi-year simulations at kilometre scale with the Integrated Forecasting System coupled to FESOM2.5/NEMOv3.4**, _EGUsphere_, [preprint](https://doi.org/10.5194/egusphere-2024-913), in review
 
-1. Ackermann, L., **Rackow, T.**, Himstedt, K, Gierz, P., Knorr, G., and Lohmann, G. (**2023**): **A comprehensive Earth System Model (AWI-ESM2.1) with interactive icebergs: Effects on surface and deep ocean characteristics**, _EGUsphere_, [preprint](https://doi.org/10.5194/egusphere-2023-2061), accepted
-
 1. B. Rabe, C. J. Cox, YC. Fang, H. F. Goessling, M. A. Granskog, M. Hoppmann, J. K. Hutchings, T. Krumpen, I. Kuznetsov, R. Lei, T. Li, W. Maslowski, M. Nicolaus, D. Perovich, O. Persson, J. Regnery, I. Rigor, M. D. Shupe, V. Sokolov, G. Spreen, T. Stanton, D. M. Watkins, E. Blockley, H. J. Buenger, S. Cole, A. Fong, J. Haapala, C. Heuzé, C. J. M. Hoppe, M. Janout, A. Jutila, C. Katlein, R. Krishfield, L. Lin, V. Ludwig, A. Morgenstern, J. O'Brien, A. Q. Zurita, **T. Rackow**, K. Riemann-Campe, A. Rinke, J. Rohde, W. Shaw, V. Smolyanitsky, A. Solomon, A. Sperling, R. Tao, J. Toole, M. Tsamados, J. Zhu, G. Zuo (**2023**): **The MOSAiC Distributed Network: observing the coupled Arctic system with multidisciplinary coordinated platforms**, [preprint](https://doi.org/10.22541/essoar.171042728.80062955/v1), accepted
 {:reversed="reversed"}
 <!---
@@ -82,6 +80,8 @@
 
 ### Peer-reviewed publications
 
+1. Ackermann, L., **Rackow, T.**, Himstedt, K., Gierz, P., Knorr, G., and Lohmann, G. (**2024**): A comprehensive Earth system model (AWI-ESM2.1) with interactive icebergs: effects on surface and deep-ocean characteristics, Geosci. Model Dev., 17, 3279–3301, https://doi.org/10.5194/gmd-17-3279-2024, [link](https://doi.org/10.5194/gmd-17-3279-2024).
+   
 1. Beech, N., **Rackow, T.**, Semmler, T., and Jung, T. (**2024**): **Exploring the ocean mesoscale at reduced computational cost with FESOM 2.5: efficient modeling strategies applied to the Southern Ocean**, Geosci. Model Dev., 17, 529–543, [10.5194/gmd-17-529-2024](https://doi.org/10.5194/gmd-17-529-2024), 2024.
 
 1. Beech, N., **Rackow, T.**, Semmler, T., Danilov, S., Wang, Q., and Jung, T. (**2022**): **Long-term evolution of ocean eddy activity in a warming world**
