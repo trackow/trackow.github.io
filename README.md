@@ -75,6 +75,8 @@
 
 1. **Rackow, T.**, Pedruzo-Bagazgoitia, X., Becker, T., Milinski, S., Sandu, I., Aguridan, R., Bechtold, P., Beyer, S., Bidlot, J., Boussetta, S., Diamantakis, M., Dueben, P., Dutra, E., Forbes, R., Goessling, H. F., Hadade, I., Hegewald, J., Keeley, S., Kluft, L., Koldunov, N., Koldunov, A., Kölling, T., Kousal, J., Mogensen, K., Quintino, T., Polichtchouk, I., Sármány, D., Sidorenko, D., Streffing, J., Sützl, B., Takasuka, D., Tietsche, S., Valentini, M., Vannière, B., Wedi, N., Zampieri, L., and Ziemen, F.: **Multi-year simulations at kilometre scale with the Integrated Forecasting System coupled to FESOM2.5/NEMOv3.4**, _EGUsphere_, [preprint](https://doi.org/10.5194/egusphere-2024-913), in review
 
+1. Beech, N., **Rackow, T.**, Semmler, T., and Jung, T.: **Eddy activity in the high-latitude Southern Ocean and its response to climate change**, in review
+
 1. Poujol, B., Lee, J., **Rackow, T.**, Rotach, M., and Ban, N.: **Do kilometer-scale climate models really perform better over complex topography?** , in review for _Geophysical Research Letters_
 {:reversed="reversed"}
 <!---
