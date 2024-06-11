@@ -341,7 +341,7 @@ Dimensions badges are only shown for papers with at least one citation; Altmetri
 
 {::options parse_block_html="false" /}
 
-1. **Photo Galery** of some of my impressions from the MOSAiC expedition to the Arctic Ocean, [galery link](https://theicepodcast.home.blog/photo-galleries/)
+1. **Photo Gallery** of some of my impressions from the MOSAiC expedition to the Arctic Ocean, [gallery link](https://theicepodcast.home.blog/photo-galleries/)
 
 1. **Climate meets music: Global mean temperature rise in sync with trending music** based on data from MetOffice ([Global HadCRUT5 Analysis](https://crudata.uea.ac.uk/cru/data/temperature/)) for 1850-2020:
 
