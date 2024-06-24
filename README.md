@@ -71,9 +71,19 @@
 
 ### Submitted publications
 
-1. Goessling, H.F., **Rackow, T.,** and Jung, T.: **Recent global temperature surge amplified by record-low planetary albedo**, preprint on [arXiv](https://doi.org/10.48550/arxiv.2405.19986), submitted
+1. Goessling, H.F., **Rackow, T.,** and Jung, T.: **Recent global temperature surge amplified by record-low planetary albedo**, preprint on [arXiv](https://doi.org/10.48550/arxiv.2405.19986), in review
+<span class="__dimensions_badge_embed__" data-doi="10.48550/arxiv.2405.19986" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
+    </span>
+    
+    <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.48550/arxiv.2405.19986" data-hide-less-than="20">
+    </div>
 
 1. **Rackow, T.**, Pedruzo-Bagazgoitia, X., Becker, T., Milinski, S., Sandu, I., Aguridan, R., Bechtold, P., Beyer, S., Bidlot, J., Boussetta, S., Diamantakis, M., Dueben, P., Dutra, E., Forbes, R., Goessling, H. F., Hadade, I., Hegewald, J., Keeley, S., Kluft, L., Koldunov, N., Koldunov, A., Kölling, T., Kousal, J., Mogensen, K., Quintino, T., Polichtchouk, I., Sármány, D., Sidorenko, D., Streffing, J., Sützl, B., Takasuka, D., Tietsche, S., Valentini, M., Vannière, B., Wedi, N., Zampieri, L., and Ziemen, F.: **Multi-year simulations at kilometre scale with the Integrated Forecasting System coupled to FESOM2.5/NEMOv3.4**, _EGUsphere_, [preprint](https://doi.org/10.5194/egusphere-2024-913), in review
+<span class="__dimensions_badge_embed__" data-doi="10.5194/egusphere-2024-913" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
+    </span>
+    
+    <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.5194/egusphere-2024-913" data-hide-less-than="20">
+    </div>
 
 1. Beech, N., **Rackow, T.**, Semmler, T., and Jung, T.: **Eddy activity in the high-latitude Southern Ocean and its response to climate change**, in review
 
