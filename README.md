@@ -71,6 +71,8 @@
 
 ### Submitted publications
 
+1. Koldunov, N., **Rackow, T.,** Lessig, C., Danilov, S., Cheedela, S., Sidorenko, S., Sandu, I., and Jung, T.: **Emerging AI-based weather prediction models as downscaling tools**. preprint on arXiv
+
 1. Goessling, H.F., **Rackow, T.,** and Jung, T.: **Recent global temperature surge amplified by record-low planetary albedo**, preprint on [arXiv](https://doi.org/10.48550/arxiv.2405.19986), in review
 <span class="__dimensions_badge_embed__" data-doi="10.48550/arxiv.2405.19986" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
     </span>
