@@ -71,6 +71,8 @@
 
 ### Submitted publications
 
+1. Brunner, L., Ghosh, R., Haimberger, L., Hohenegger, C., Putrasahan, D., **Rackow, T.**, Knutti, R., and Voigt, A.: **Toward Digital Twins of Earth: Tracing three decades of climate model improvements**, submitted
+   
 1. Koldunov, N., **Rackow, T.,** Lessig, C., Danilov, S., Cheedela, S., Sidorenko, S., Sandu, I., and Jung, T.: **Emerging AI-based weather prediction models as downscaling tools**. preprint on [arXiv](https://arxiv.org/abs/2406.17977)
 <span class="__dimensions_badge_embed__" data-doi="10.48550/arxiv.2406.17977" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
     </span>
