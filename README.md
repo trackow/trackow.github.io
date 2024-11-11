@@ -71,7 +71,9 @@
 
 ### Submitted publications
 
-1. **Rackow, T.**, Koldunov, N., Lessig, C., Sandu, I., Alexe, M., Chantry, M., Clare, M., Dramsch, J., Pappenberger, F., Pedruzo-Bagazgoitia, X., Tietsche, S., and Jung, T: **Robustness of AI-based weather forecasts in a changing climate**, submitted, preprint on [arXiv](
+1. John, A., Beyer, S., Athanase, M., Sanchez-Benítez, A., Goessling, H. F., Hossain, A., Nurisso, M., Aguridan, R., Andrés-Martínez, M., Gaya-Àvila, A., Cheedela, S. K., Geier, P., Ghosh, R., Hadade, I., Koldunov, N. V., Pedruzo-Bagazgoitia, X., **Rackow, T.**, Sandu, I., Sidorenko, D., Streffing, J., Vitali, E., and Jung, T.: **Global Storyline Simulations at the Kilometre-scale**, in review for JAMES
+
+1. **Rackow, T.**, Koldunov, N., Lessig, C., Sandu, I., Alexe, M., Chantry, M., Clare, M., Dramsch, J., Pappenberger, F., Pedruzo-Bagazgoitia, X., Tietsche, S., and Jung, T: **Robustness of AI-based weather forecasts in a changing climate**, in review, preprint on [arXiv](
 https://doi.org/10.48550/arXiv.2409.18529)
 <span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2409.18529" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
     </span>
@@ -79,7 +81,7 @@ https://doi.org/10.48550/arXiv.2409.18529)
     <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.48550/arXiv.2409.18529" data-hide-less-than="20">
     </div>
 
-1. Brunner, L., Ghosh, R., Haimberger, L., Hohenegger, C., Putrasahan, D., **Rackow, T.**, Knutti, R., and Voigt, A.: **Toward Digital Twins of Earth: Tracing three decades of climate model improvements**, submitted
+1. Brunner, L., Ghosh, R., Haimberger, L., Hohenegger, C., Putrasahan, D., **Rackow, T.**, Knutti, R., and Voigt, A.: **First climate models simulate global surface temperature patterns indistinguishable from observations**, submitted
    
 1. Koldunov, N., **Rackow, T.,** Lessig, C., Danilov, S., Cheedela, S., Sidorenko, S., Sandu, I., and Jung, T.: **Emerging AI-based weather prediction models as downscaling tools**. preprint on [arXiv](https://arxiv.org/abs/2406.17977)
 <span class="__dimensions_badge_embed__" data-doi="10.48550/arxiv.2406.17977" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
@@ -88,14 +90,14 @@ https://doi.org/10.48550/arXiv.2409.18529)
     <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.48550/arxiv.2406.17977" data-hide-less-than="20">
     </div>
 
-1. Goessling, H.F., **Rackow, T.,** and Jung, T.: **Recent global temperature surge amplified by record-low planetary albedo**, preprint on [arXiv](https://doi.org/10.48550/arxiv.2405.19986), in review
+1. Goessling, H.F., **Rackow, T.,** and Jung, T.: **Recent global temperature surge amplified by record-low planetary albedo**, preprint on [arXiv](https://doi.org/10.48550/arxiv.2405.19986), in revision
 <span class="__dimensions_badge_embed__" data-doi="10.48550/arxiv.2405.19986" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
     </span>
     
     <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.48550/arxiv.2405.19986" data-hide-less-than="20">
     </div>
 
-1. **Rackow, T.**, Pedruzo-Bagazgoitia, X., Becker, T., Milinski, S., Sandu, I., Aguridan, R., Bechtold, P., Beyer, S., Bidlot, J., Boussetta, S., Diamantakis, M., Dueben, P., Dutra, E., Forbes, R., Goessling, H. F., Hadade, I., Hegewald, J., Keeley, S., Kluft, L., Koldunov, N., Koldunov, A., Kölling, T., Kousal, J., Mogensen, K., Quintino, T., Polichtchouk, I., Sármány, D., Sidorenko, D., Streffing, J., Sützl, B., Takasuka, D., Tietsche, S., Valentini, M., Vannière, B., Wedi, N., Zampieri, L., and Ziemen, F.: **Multi-year simulations at kilometre scale with the Integrated Forecasting System coupled to FESOM2.5/NEMOv3.4**, _EGUsphere_, [preprint](https://doi.org/10.5194/egusphere-2024-913), in review
+1. **Rackow, T.**, Pedruzo-Bagazgoitia, X., Becker, T., Milinski, S., Sandu, I., Aguridan, R., Bechtold, P., Beyer, S., Bidlot, J., Boussetta, S., Diamantakis, M., Dueben, P., Dutra, E., Forbes, R., Goessling, H. F., Hadade, I., Hegewald, J., Keeley, S., Kluft, L., Koldunov, N., Koldunov, A., Kölling, T., Kousal, J., Mogensen, K., Quintino, T., Polichtchouk, I., Sármány, D., Sidorenko, D., Streffing, J., Sützl, B., Takasuka, D., Tietsche, S., Valentini, M., Vannière, B., Wedi, N., Zampieri, L., and Ziemen, F.: **Multi-year simulations at kilometre scale with the Integrated Forecasting System coupled to FESOM2.5/NEMOv3.4**, _EGUsphere_, [preprint](https://doi.org/10.5194/egusphere-2024-913), accepted
 <span class="__dimensions_badge_embed__" data-doi="10.5194/egusphere-2024-913" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
     </span>
     
@@ -104,7 +106,7 @@ https://doi.org/10.48550/arXiv.2409.18529)
 
 1. Beech, N., **Rackow, T.**, Semmler, T., and Jung, T.: **Eddy activity in the high-latitude Southern Ocean and its response to climate change**, in review
 
-1. Poujol, B., Lee, J., **Rackow, T.**, Rotach, M., and Ban, N.: **Do kilometer-scale climate models really perform better over complex topography?** , in review for _Geophysical Research Letters_
+1. Poujol, B., Lee, J., **Rackow, T.**, Rotach, M., and Ban, N.: **Are the largest benefits of kilometer-scale climate models over mountains or over flatland?** , in review for _Geophysical Research Letters_
 {:reversed="reversed"}
 <!---
 1. Authors. **Title** (in revision)
