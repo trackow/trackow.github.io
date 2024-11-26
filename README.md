@@ -357,7 +357,7 @@ Dimensions badges are only shown for papers with at least one citation; Altmetri
    
 ### Other publications
 
-1. **Freshwater forcing from Greenland and Antarctica**, Kenneth D Mankoff, Julie Arblaster, Jonathan L Bamber, Dustin Carroll, David Chandler, Matthew H England, Paul Holland, Nicolas Jourdain, Qian Li, Juliana Marson, Pierre Mathiot, Clive McMahon, Twila A Moon, Anna Olivé Abelló, Andrew G. Pauling, **Thomas Rackow**, Damien Ringeisen, and Gavin A Schmidt. [Read the AGU abstract](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1539127/)
+1. **Freshwater forcing from Greenland and Antarctica**, Kenneth D Mankoff, Julie Arblaster, Jonathan L Bamber, Dustin Carroll, David Chandler, Matthew H England, Paul Holland, Nicolas Jourdain, Qian Li, Juliana Marson, Pierre Mathiot, Clive McMahon, Twila A Moon, Anna Olivé Abelló, Andrew G. Pauling, **Thomas Rackow**, Damien Ringeisen, and Gavin A Schmidt. [Read the AGU abstract](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1539127)
 
 1. **Fixing water and energy budget imbalances in the Integrated Forecasting System**. Becker, T., **Rackow, T.**, Pedruzo, X., Sandu, I., Forbes, R., Diamantakis, M., Bechtold, P., and Polichtchouk, I. (2022). ECMWF newsletter, Number 172. [Read it](https://www.ecmwf.int/en/newsletter/172/news/fixing-water-and-energy-budget-imbalances-integrated-forecasting-system)
 
