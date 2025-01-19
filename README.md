@@ -107,11 +107,12 @@ https://doi.org/10.48550/arXiv.2409.18529)
 
 <span class="__dimensions_badge_embed__" data-doi="10.5194/gmd-18-33-2025" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
     </span>
-<span class="__dimensions_badge_embed__" data-doi="10.5194/egusphere-2024-913" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
-    </span>
     
     <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.5194/gmd-18-33-2025" data-hide-less-than="5">
     </div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.5194/egusphere-2024-913" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
+    </span>
 
 1. Goessling, H.F., **Rackow, T.,** and Jung, T. (**2025**): **Recent global temperature surge intensified by record-low planetary albedo**, Science 387,68-73, [link](https://doi.org/10.1126/science.adq7280) / [Science Editor's summary](https://www.science.org/doi/10.1126/science.adv5899) / [English press release](https://www.awi.de/en/about-us/service/press/single-view/sprunghafter-anstieg-der-erderwaermung-ist-massgeblich-auf-geringere-rueckstrahlkraft-des-planeten-zurueckzufuehren.html) / [German press release](https://www.awi.de/ueber-uns/service/presse/presse-detailansicht/sprunghafter-anstieg-der-erderwaermung-ist-massgeblich-auf-geringere-rueckstrahlkraft-des-planeten-zurueckzufuehren.html) / [Bluesky thread](https://bsky.app/profile/trackow.bsky.social/post/3lclf3j3rds2j)
 <span class="__dimensions_badge_embed__" data-doi="10.1126/science.adq7280" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
