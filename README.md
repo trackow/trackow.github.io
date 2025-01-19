@@ -92,13 +92,6 @@ https://doi.org/10.48550/arXiv.2409.18529)
     <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.48550/arxiv.2406.17977" data-hide-less-than="20">
     </div>
 
-1. **Rackow, T.**, Pedruzo-Bagazgoitia, X., Becker, T., Milinski, S., Sandu, I., Aguridan, R., Bechtold, P., Beyer, S., Bidlot, J., Boussetta, S., Diamantakis, M., Dueben, P., Dutra, E., Forbes, R., Goessling, H. F., Hadade, I., Hegewald, J., Keeley, S., Kluft, L., Koldunov, N., Koldunov, A., Kölling, T., Kousal, J., Mogensen, K., Quintino, T., Polichtchouk, I., Sármány, D., Sidorenko, D., Streffing, J., Sützl, B., Takasuka, D., Tietsche, S., Valentini, M., Vannière, B., Wedi, N., Zampieri, L., and Ziemen, F.: **Multi-year simulations at kilometre scale with the Integrated Forecasting System coupled to FESOM2.5/NEMOv3.4**, _EGUsphere_, [preprint](https://doi.org/10.5194/egusphere-2024-913), accepted
-<span class="__dimensions_badge_embed__" data-doi="10.5194/egusphere-2024-913" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
-    </span>
-    
-    <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.5194/egusphere-2024-913" data-hide-less-than="20">
-    </div>
-
 1. Beech, N., **Rackow, T.**, Semmler, T., and Jung, T.: **Eddy activity in the high-latitude Southern Ocean and its response to climate change**, in review
 
 1. Poujol, B., Lee, J., **Rackow, T.**, Rotach, M., and Ban, N.: **Are the largest benefits of kilometer-scale climate models over mountains or over flatland?** , in review for _Geophysical Research Letters_
@@ -109,6 +102,14 @@ https://doi.org/10.48550/arXiv.2409.18529)
 -->
 
 ### Peer-reviewed publications
+
+1. **Rackow, T.**, Pedruzo-Bagazgoitia, X., Becker, T., Milinski, S., Sandu, I., Aguridan, R., Bechtold, P., Beyer, S., Bidlot, J., Boussetta, S., Deconinck, W., Diamantakis, M., Dueben, P., Dutra, E., Forbes, R., Ghosh, R., Goessling, H. F., Hadade, I., Hegewald, J., Jung, T., Keeley, S., Kluft, L., Koldunov, N., Koldunov, A., Kölling, T., Kousal, J., Kühnlein, C., Maciel, P., Mogensen, K., Quintino, T., Polichtchouk, I., Reuter, B., Sármány, D., Scholz, P., Sidorenko, D., Streffing, J., Sützl, B., Takasuka, D., Tietsche, S., Valentini, M., Vannière, B., Wedi, N., Zampieri, L., and Ziemen, F. (**2025**): **Multi-year simulations at kilometre scale with the Integrated Forecasting System coupled to FESOM2.5 and NEMOv3.4**, Geosci. Model Dev., 18, 33–69, [link](https://doi.org/10.5194/gmd-18-33-2025)
+
+<span class="__dimensions_badge_embed__" data-doi="10.5194/gmd-18-33-2025" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
+    </span>
+    
+    <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.5194/gmd-18-33-2025" data-hide-less-than="5">
+    </div>
 
 1. Goessling, H.F., **Rackow, T.,** and Jung, T. (**2025**): **Recent global temperature surge intensified by record-low planetary albedo**, Science 387,68-73, [link](https://doi.org/10.1126/science.adq7280) / [Science Editor's summary](https://www.science.org/doi/10.1126/science.adv5899)
 <span class="__dimensions_badge_embed__" data-doi="10.1126/science.adq7280" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
