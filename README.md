@@ -107,6 +107,8 @@ https://doi.org/10.48550/arXiv.2409.18529)
 
 <span class="__dimensions_badge_embed__" data-doi="10.5194/gmd-18-33-2025" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
     </span>
+<span class="__dimensions_badge_embed__" data-doi="10.5194/egusphere-2024-913" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
+    </span>
     
     <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.5194/gmd-18-33-2025" data-hide-less-than="5">
     </div>
