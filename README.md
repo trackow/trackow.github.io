@@ -92,13 +92,6 @@ https://doi.org/10.48550/arXiv.2409.18529)
     <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.48550/arxiv.2406.17977" data-hide-less-than="20">
     </div>
 
-1. Goessling, H.F., **Rackow, T.,** and Jung, T.: **Recent global temperature surge amplified by record-low planetary albedo**, preprint on [arXiv](https://doi.org/10.48550/arxiv.2405.19986), in revision
-<span class="__dimensions_badge_embed__" data-doi="10.48550/arxiv.2405.19986" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
-    </span>
-    
-    <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.48550/arxiv.2405.19986" data-hide-less-than="20">
-    </div>
-
 1. **Rackow, T.**, Pedruzo-Bagazgoitia, X., Becker, T., Milinski, S., Sandu, I., Aguridan, R., Bechtold, P., Beyer, S., Bidlot, J., Boussetta, S., Diamantakis, M., Dueben, P., Dutra, E., Forbes, R., Goessling, H. F., Hadade, I., Hegewald, J., Keeley, S., Kluft, L., Koldunov, N., Koldunov, A., Kölling, T., Kousal, J., Mogensen, K., Quintino, T., Polichtchouk, I., Sármány, D., Sidorenko, D., Streffing, J., Sützl, B., Takasuka, D., Tietsche, S., Valentini, M., Vannière, B., Wedi, N., Zampieri, L., and Ziemen, F.: **Multi-year simulations at kilometre scale with the Integrated Forecasting System coupled to FESOM2.5/NEMOv3.4**, _EGUsphere_, [preprint](https://doi.org/10.5194/egusphere-2024-913), accepted
 <span class="__dimensions_badge_embed__" data-doi="10.5194/egusphere-2024-913" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
     </span>
@@ -116,6 +109,13 @@ https://doi.org/10.48550/arXiv.2409.18529)
 -->
 
 ### Peer-reviewed publications
+
+1. Goessling, H.F., **Rackow, T.,** and Jung, T. (**2025**): **Recent global temperature surge intensified by record-low planetary albedo**, Science 387,68-73, [link](https://doi.org/10.1126/science.adq7280) / [Science Editor's summary](https://www.science.org/doi/10.1126/science.adv5899)
+<span class="__dimensions_badge_embed__" data-doi="10.1126/science.adq7280" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
+    </span>
+    
+    <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.1126/science.adq7280" data-hide-less-than="20">
+    </div>
 
 1. B. Rabe, C. J. Cox, YC. Fang, H. F. Goessling, M. A. Granskog, M. Hoppmann, J. K. Hutchings, T. Krumpen, I. Kuznetsov, R. Lei, T. Li, W. Maslowski, M. Nicolaus, D. Perovich, O. Persson, J. Regnery, I. Rigor, M. D. Shupe, V. Sokolov, G. Spreen, T. Stanton, D. M. Watkins, E. Blockley, H. J. Buenger, S. Cole, A. Fong, J. Haapala, C. Heuzé, C. J. M. Hoppe, M. Janout, A. Jutila, C. Katlein, R. Krishfield, L. Lin, V. Ludwig, A. Morgenstern, J. O'Brien, A. Q. Zurita, **T. Rackow**, K. Riemann-Campe, A. Rinke, J. Rohde, W. Shaw, V. Smolyanitsky, A. Solomon, A. Sperling, R. Tao, J. Toole, M. Tsamados, J. Zhu, G. Zuo (**2024**): **The MOSAiC Distributed Network: observing the coupled Arctic system with multidisciplinary, coordinated platforms**, [link](https://doi.org/10.1525/elementa.2023.00103)
 <span class="__dimensions_badge_embed__" data-doi="10.1525/elementa.2023.00103" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
