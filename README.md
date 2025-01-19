@@ -104,7 +104,6 @@ https://doi.org/10.48550/arXiv.2409.18529)
 ### Peer-reviewed publications
 
 1. **Rackow, T.**, Pedruzo-Bagazgoitia, X., Becker, T., Milinski, S., Sandu, I., Aguridan, R., Bechtold, P., Beyer, S., Bidlot, J., Boussetta, S., Deconinck, W., Diamantakis, M., Dueben, P., Dutra, E., Forbes, R., Ghosh, R., Goessling, H. F., Hadade, I., Hegewald, J., Jung, T., Keeley, S., Kluft, L., Koldunov, N., Koldunov, A., Kölling, T., Kousal, J., Kühnlein, C., Maciel, P., Mogensen, K., Quintino, T., Polichtchouk, I., Reuter, B., Sármány, D., Scholz, P., Sidorenko, D., Streffing, J., Sützl, B., Takasuka, D., Tietsche, S., Valentini, M., Vannière, B., Wedi, N., Zampieri, L., and Ziemen, F. (**2025**): **Multi-year simulations at kilometre scale with the Integrated Forecasting System coupled to FESOM2.5 and NEMOv3.4**, Geosci. Model Dev., 18, 33–69, [link](https://doi.org/10.5194/gmd-18-33-2025)
-
 <span class="__dimensions_badge_embed__" data-doi="10.5194/gmd-18-33-2025" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
     </span>
     
