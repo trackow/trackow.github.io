@@ -73,9 +73,11 @@
 
 ### Submitted publications
 
+1. Segura, H., Pedruzo-Bagazgoitia, X., Weiss, P., Müller, S. K., **Rackow, T.**, Lee, J., Dolores-Tesillos, E., Benedict, I., Aengenheyster, M., Aguridan, R., Arduini, G., Baker, A. J., Bao, J., Bastin, S., Baulenas, E., Becker, T., Beyer, S., Bockelmann, H., Brüggemann, N., Brunner, L., Cheedela, S. K., Das, S., Denissen, J., Dragaud, I., Dziekan, P., Ekblom, M., Engels, J. F., Esch, M., Forbes, R., Frauen, C., Freischem, L., García-Maroto, D., Geier, P., Gierz, P., González-Cervera, Á., Grayson, K., Griffith, M., Gutjahr, O., Haak, H., Hadade, I., Haslehner, K., ul Hasson, S., Hegewald, J., Kluft, L., Koldunov, A., Koldunov, N., Kölling, T., Koseki, S., Kosukhin, S., Kousal, J., Kuma, P., Kumar, A. U., Li, R., Maury, N., Meindl, M., Milinski, S., Mogensen, K., Niraula, B., Nowak, J., Praturi, D. S., Proske, U., Putrasahan, D., Redler, R., Santuy, D., Sármány, D., Schnur, R., Scholz, P., Sidorenko, D., Spät, D., Sützl, B., Takasuka, D., Tompkins, A., Uribe, A., Valentini, M., Veerman, M., Voigt, A., Warnau, S., Wachsmann, F., Wacławczyk, M., Wedi, N., Wieners, K.-H., Wille, J., Winkler, M., Wu, Y., Ziemen, F., Zimmermann, J., Bender, F. A.-M., Bojovic, D., Bony, S., Bordoni, S., Brehmer, P., Dengler, M., Dutra, E., Faye, S., Fischer, E., van Heerwaarden, C., Hohenegger, C., Järvinen, H., Jochum, M., Jung, T., Jungclaus, J. H., Keenlyside, N. S., Klocke, D., Konow, H., Klose, M., Malinowski, S., Martius, O., Mauritsen, T., Mellado, J. P., Mieslinger, T., Mohino, E., Pawłowska, H., Peters-von Gehlen, K., Sarré, A., Sobhani, P., Stier, P., Tuppi, L., Vidale, P. L., Sandu, I., and Stevens, B.: **nextGEMS: entering the era of kilometer-scale Earth system modeling**, EGUsphere [preprint](https://doi.org/10.5194/egusphere-2025-509), https://doi.org/10.5194/egusphere-2025-509, 2025.
+
 1. John, A., Beyer, S., Athanase, M., Sanchez-Benítez, A., Goessling, H. F., Hossain, A., Nurisso, M., Aguridan, R., Andrés-Martínez, M., Gaya-Àvila, A., Cheedela, S. K., Geier, P., Ghosh, R., Hadade, I., Koldunov, N. V., Pedruzo-Bagazgoitia, X., **Rackow, T.**, Sandu, I., Sidorenko, D., Streffing, J., Vitali, E., and Jung, T.: **Global Storyline Simulations at the Kilometre-scale**, in review for JAMES
 
-1. **Rackow, T.**, Koldunov, N., Lessig, C., Sandu, I., Alexe, M., Chantry, M., Clare, M., Dramsch, J., Pappenberger, F., Pedruzo-Bagazgoitia, X., Tietsche, S., and Jung, T: **Robustness of AI-based weather forecasts in a changing climate**, in review, preprint on [arXiv](
+1. **Rackow, T.**, Koldunov, N., Lessig, C., Sandu, I., Alexe, M., Chantry, M., Clare, M., Dramsch, J., Pappenberger, F., Pedruzo-Bagazgoitia, X., Tietsche, S., and Jung, T: **Robustness of AI-based weather forecasts in a changing climate**, preprint on [arXiv](
 https://doi.org/10.48550/arXiv.2409.18529)
 <span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2409.18529" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
     </span>
@@ -92,7 +94,7 @@ https://doi.org/10.48550/arXiv.2409.18529)
     <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.48550/arxiv.2406.17977" data-hide-less-than="20">
     </div>
 
-1. Beech, N., **Rackow, T.**, Semmler, T., and Jung, T.: **Eddy activity in the high-latitude Southern Ocean and its response to climate change**, in review
+1. Beech, N., **Rackow, T.**, Semmler, T., and Jung, T.: **Eddy activity in the high-latitude Southern Ocean and its response to climate change**, in revision
 
 1. Poujol, B., Lee, J., **Rackow, T.**, Rotach, M., and Ban, N.: **Are the largest benefits of kilometer-scale climate models over mountains or over flatland?** , in review for _Geophysical Research Letters_
 {:reversed="reversed"}
