@@ -88,15 +88,6 @@ https://doi.org/10.48550/arXiv.2409.18529)
 1. Brunner, L., Ghosh, R., Haimberger, L., Hohenegger, C., Putrasahan, D., **Rackow, T.**, Knutti, R., and Voigt, A.: **First climate models simulate global surface temperature patterns indistinguishable from observations**, submitted
    
 1. Koldunov, N., **Rackow, T.,** Lessig, C., Danilov, S., Cheedela, S., Sidorenko, S., Sandu, I., and Jung, T.: **Emerging AI-based weather prediction models as downscaling tools**. preprint on [arXiv](https://arxiv.org/abs/2406.17977)
-<span class="__dimensions_badge_embed__" data-doi="10.48550/arxiv.2406.17977" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
-    </span>
-    
-    <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.48550/arxiv.2406.17977" data-hide-less-than="20">
-    </div>
-
-1. Beech, N., **Rackow, T.**, Semmler, T., and Jung, T.: **Eddy activity in the high-latitude Southern Ocean and its response to climate change**, in revision
-
-1. Poujol, B., Lee, J., **Rackow, T.**, Rotach, M., and Ban, N.: **Are the largest benefits of kilometer-scale climate models over mountains or over flatland?** , in review for _Geophysical Research Letters_
 {:reversed="reversed"}
 <!---
 1. Authors. **Title** (in revision)
@@ -104,6 +95,13 @@ https://doi.org/10.48550/arXiv.2409.18529)
 -->
 
 ### Peer-reviewed publications
+
+1. Poujol, B., Lee, J., **Rackow, T.**, Rotach, M. W., & Ban, N. (**2025**). Are the largest benefits of kilometer-scale climate models over mountains or over flatland? Geophysical Research Letters, 52, e2024GL113937. [link](https://doi.org/10.1029/2024GL113937)
+<span class="__dimensions_badge_embed__" data-doi="10.1029/2024GL11393" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
+    </span>
+    
+    <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.1029/2024GL11393" data-hide-less-than="5">
+    </div>   
 
 1. Beech, N., **Rackow, T.**, Semmler, T. and Jung, T. (**2025**): High-latitude Southern Ocean eddy activity projected to evolve with anthropogenic climate change. Commun Earth Environ 6, 237 (2025). [link](https://doi.org/10.1038/s43247-025-02221-4)
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s43247-025-02221-4" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
