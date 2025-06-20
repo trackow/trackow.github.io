@@ -19,6 +19,10 @@
 
 ### Outreach / Blogposts / Interviews / Podcasts
 
+1. **Final hackathon video for nextGEMS project**, [link to video including my statements](https://nextgems-h2020.eu/media-library/?medium_id=1993)
+
+1. **Kilometre-scale simulations in Destination Earth**, explainer video on [YouTube](https://www.youtube.com/watch?v=5ZMq6l821w4&t=69s) 
+
 1. **Several interviews for our recent paper in Science about the recent planetary albedo decline** [DOI](https://doi.org/10.1126/science.adq7280), for example [Astronomy magazine](https://www.astronomy.com/science/low-level-clouds-play-surprise-role-in-global-warming/), [DownToEarth](https://www.downtoearth.org.in/climate-change/disappearing-low-altitude-clouds-linked-to-2023s-record-breaking-temperatures), [Smithsonian Mag](https://www.smithsonianmag.com/smart-news/scientists-find-another-reason-why-2023-was-so-hot-a-decline-in-low-lying-clouds-180985600/), [Cosmos Magazine](https://cosmosmagazine.com/earth/climate/reason-for-2023-heat-extremes-suggests-1-5c-could-be-reached-sooner-than-expected/), [ArsTechnica](https://arstechnica.com/science/2024/12/new-study-blames-recent-spike-in-global-warming-on-lack-of-low-clouds/), [Inside Climate News](https://insideclimatenews.org/news/05122024/reflective-low-clouds-decline-may-contribute-to-record-heat/) also featured on Youtube, or on Gavin Schmidt's blog [RealClimate](https://www.realclimate.org/index.php/archives/2024/12/nature-2023-part-ii/) 
 
 1. **Session co-convener at EGU2024 on km-scale modelling** with Hans Segura, Dian Putrasahan, Daisuke Takasuka, and Tobias Becker, [link](https://meetingorganizer.copernicus.org/EGU24/session/49403), Vienna, Austria.
@@ -73,7 +77,7 @@
 
 ### Submitted publications
 
-1. Doblas-Reyes, Francisco J. and co-authors (including **Rackow, T.**): **The Destination Earth digital twin for climate change adaptation** by  et al., GMD, egusphere-2025-2198, in review.
+1. Doblas-Reyes, Francisco J. and co-authors (including **Rackow, T.**): **The Destination Earth digital twin for climate change adaptation**, GMD, egusphere-2025-2198, in review.
 
 1. Gavin A. Schmidt, Kenneth D. Mankoff, Jonathan L. Bamber, Dustin Carroll, David M. Chandler, Violaine Coulon, Benjamin J. Davison, Matthew H. England, Paul R. Holland, Nicolas C. Jourdain, Qian Li, Juliana M. Marson, Pierre Mathiot, Clive R. McMahon, Twila A. Moon, Ruth Mottram, Sophie Nowicki, Anne Olivé Abelló, Andrew G. Pauling, **Thomas Rackow**, and Damien Ringeisen: **Datasets and protocols for including anomalous freshwater from melting ice sheets in climate simulations**, EGUsphere [preprint](https://doi.org/10.5194/egusphere-2025-1940), https://doi.org/10.5194/egusphere-2025-1940, 2025.
 
