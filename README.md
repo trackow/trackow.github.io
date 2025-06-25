@@ -19,6 +19,8 @@
 
 ### Outreach / Blogposts / Interviews / Podcasts
 
+1. **DestinE team at WCRP's global hackathon**, [blog post](https://destine.ecmwf.int/news/destination-earth-team-advances-climate-digital-twin-science-at-global-km-scale-hackathon/)
+
 1. **Final hackathon video for nextGEMS project**, [link to video including my statements](https://nextgems-h2020.eu/media-library/?medium_id=1993)
 
 1. **Kilometre-scale simulations in Destination Earth**, explainer video on [YouTube](https://www.youtube.com/watch?v=5ZMq6l821w4&t=69s) 
