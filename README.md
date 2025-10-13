@@ -16,6 +16,7 @@
 > underrepresented ocean eddies, leads in sea ice, and entirely new model components that impact climate variability
 > (e.g. meltwater from drifting icebergs or stochasticity in the air-sea exchange) , so that we can be confident in our future decisions.
 
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1085676480?h=d08ea7c54a" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
 ### Outreach / Blogposts / Interviews / Podcasts
 
