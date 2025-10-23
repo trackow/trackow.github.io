@@ -94,7 +94,7 @@ https://doi.org/10.48550/arXiv.2409.18529)
     <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.48550/arXiv.2409.18529" data-hide-less-than="20">
     </div>
 
-1. Brunner, L., Ghosh, R., Haimberger, L., Hohenegger, C., Putrasahan, D., **Rackow, T.**, Knutti, R., and Voigt, A.: **First climate models simulate global surface temperature patterns indistinguishable from observations**.
+1. Brunner, L., Ghosh, R., Haimberger, L., Hohenegger, C., Putrasahan, D., **Rackow, T.**, Knutti, R., and Voigt, A.: **Three decades of simulating global temperatures with coupled global climate models**.
    
 1. Koldunov, N., **Rackow, T.,** Lessig, C., Danilov, S., Cheedela, S., Sidorenko, S., Sandu, I., and Jung, T.: **Emerging AI-based weather prediction models as downscaling tools**. preprint on [arXiv](https://arxiv.org/abs/2406.17977)
 {:reversed="reversed"}
