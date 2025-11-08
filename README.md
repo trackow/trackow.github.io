@@ -103,7 +103,7 @@ https://doi.org/10.48550/arXiv.2409.18529)
 
 ### Peer-reviewed publications
 
-1. Gavin A. Schmidt, Kenneth D. Mankoff, Jonathan L. Bamber, Dustin Carroll, David M. Chandler, Violaine Coulon, Benjamin J. Davison, Matthew H. England, Paul R. Holland, Nicolas C. Jourdain, Qian Li, Juliana M. Marson, Pierre Mathiot, Clive R. McMahon, Twila A. Moon, Ruth Mottram, Sophie Nowicki, Anne Olivé Abelló, Andrew G. Pauling, **Thomas Rackow**, and Damien Ringeisen: **Datasets and protocols for including anomalous freshwater from melting ice sheets in climate simulations**, https://doi.org/10.5194/gmd-18-8333-2025, 2025.
+1. Gavin A. Schmidt, Kenneth D. Mankoff, Jonathan L. Bamber, Dustin Carroll, David M. Chandler, Violaine Coulon, Benjamin J. Davison, Matthew H. England, Paul R. Holland, Nicolas C. Jourdain, Qian Li, Juliana M. Marson, Pierre Mathiot, Clive R. McMahon, Twila A. Moon, Ruth Mottram, Sophie Nowicki, Anne Olivé Abelló, Andrew G. Pauling, **Thomas Rackow**, and Damien Ringeisen: **Datasets and protocols for including anomalous freshwater from melting ice sheets in climate simulations**, [link](https://doi.org/10.5194/gmd-18-8333-2025), 2025. The paper is listed in the [CMIP7 special issue on inputs and forcings](https://gmd.copernicus.org/articles/special_issue1307.html)
 <span class="__dimensions_badge_embed__" data-doi="10.5194/gmd-18-8333-2025" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
     </span>
     
