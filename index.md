@@ -6,7 +6,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/mosaic_background_medium.jpg
+  overlay_image: /assets/img/mosaic_background_medium.jpg
 ---
 
 # About Me
