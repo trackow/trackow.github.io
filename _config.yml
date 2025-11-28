@@ -1,10 +1,10 @@
 # theme: jekyll-theme-slate
 title: Thomas Rackow
 description: climate modelling and scicomm
-#remote_theme: daattali/beautiful-jekyll
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-include-cache
+remote_theme: daattali/beautiful-jekyll
+#remote_theme: mmistakes/minimal-mistakes
+#plugins:
+#  - jekyll-include-cache
 
 
 # Your name to show in the footer
