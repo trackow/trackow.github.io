@@ -103,6 +103,10 @@ https://doi.org/10.48550/arXiv.2409.18529)
 {:reversed="reversed"}
 -->
 
+### Publications in preparation
+
+1. Ziemen, Kluft, Kölling, **Rackow**, Wachsmann, and Gettelman: **km-scales hacked at global scales**, in prep. for GMD
+
 ### Peer-reviewed publications
 
 1. I. Hadade, D. Klocke, J. Enkovaara, T. Lunttila, **T. Rackow**, J. F. Engels, C. Frauen, R. Redler, J. Kontkanen, T. Jung, D. Sein, I. Sandu, B. Reuter, N. Wedi, S. Milinski, F. Doblas-Reyes, M. Castrillo, M. Acosta, S. Girona, and P. Manninen. 2025. **Destination Earth: The Climate Change Adaptation Digital Twin**. In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC '25). Association for Computing Machinery, New York, NY, USA, 99–110. [link](https://doi.org/10.1145/3712285.3771790), Gordon Bell Prize for Climate Modelling [Finalist](https://destine.ecmwf.int/news/destines-climate-change-adaptation-digital-twin-shortlisted-for-the-acm-gordon-bell-prize-for-climate/)
