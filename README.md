@@ -106,6 +106,8 @@ https://doi.org/10.48550/arXiv.2409.18529)
 ### Publications in preparation
 
 1. Ziemen, Kluft, Kölling, **Rackow**, Wachsmann, and Gettelman: **km-scales hacked at global scales**, in prep. for GMD
+2. Simon F. Reifenberg, Laurent Bertino, Ed Blockley, Frederic Dupont, Ruediger Gerdes, Robert W. Grumbine, Maren Friele Grung, Yukie Hata, Mario Hoppmann, Shabnam Jafarikhasragh, Thomas Krumpen, Jean-Francois Lemieux, Stephanie Leroux, Valentin Ludwig, Francois Massonet, Malte Mueller, Cyril Palerme, **Thomas Rackow**, Pierre Rampal, Till Andreas Soya Rasmussen, Mads Hvid Ribergaard, Ignatius Rigor, Amy Solomon, Steffen Tietsche, Timothy Williams, Helge F. Goessling: **Data from the Sea Ice Drift Forecast Experiment (SIDFEx, 2017-2025): A multi-method forecast collection**, in prep. for Nature Scientific Data
+
 
 ### Peer-reviewed publications
 
