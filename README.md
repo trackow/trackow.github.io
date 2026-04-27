@@ -80,12 +80,6 @@
 
 ### Submitted publications
 
-1. Doblas-Reyes, F. J., Kontkanen, J., Sandu, I., Acosta, M., Al Turjmam, M. H., Alsina-Ferrer, I., Andrés-Martínez, M., Arriola, L., Axness, M., Batlle Martín, M., Bauer, P., Becker, T., Beltrán, D., Beyer, S., Bockelmann, H., Bretonnière, P.-A., Cabaniols, S., Caprioli, S., Castrillo, M., Chandrasekar, A., Cheedela, S., Correal, V., Danovaro, E., Davini, P., Enkovaara, J., Frauen, C., Früh, B., Gaya Àvila, A., Ghinassi, P., Ghosh, R., Ghosh, S., González, I., Grayson, K., Griffith, M., Hadade, I., Haine, C., Hartick, C., Haus, U.-U., Hearne, S., Järvinen, H., Jiménez, B., John, A., Juchem, M., Jung, T., Kegel, J., Kelbling, M., Keller, K., Kinoshita, B., Kiszler, T., Klocke, D., Kluft, L., Koldunov, N., Kölling, T., Kolstela, J., Kornblueh, L., Kosukhin, S., Lacima-Nadolnik, A., Leal Rojas, J. J., Lehtiranta, J., Lunttila, T., Luoma, A., Manninen, P., Medvedev, A., Milinski, S., Mohammed, A. O. A., Müller, S., Naryanappa, D., Nazarova, N., Niemelä, S., Niraula, B., Nortamo, H., Nummelin, A., Nurisso, M., Ortega, P., Paronuzzi, S., Pedruzo Bagazgoitia, X., Pelletier, C., Peña, C., Polade, S., Pradhan, H., Quintanilla, R., Quintino, T., **Rackow, T.**, Räisänen, J., Rajput, M. M., Redler, R., Reuter, B., Rocha Monteiro, N., Roura-Adserias, F., Ruppert, S., Sayed, S., Schnur, R., Sharma, T., Sidorenko, D., Sievi-Korte, O., Soret, A., Steger, C., Stevens, B., Streffing, J., Sunny, J., Tenorio, L., Thober, S., Tigerstedt, U., Tinto, O., Tonttila, J., Tuomenvirta, H., Tuppi, L., Van Thielen, G., Vitali, E., von Hardenberg, J., Wagner, I., Wedi, N., Wehner, J., Willner, S., Yepes-Arbós, X., Ziemen, F., and Zimmermann, J.: **The Destination Earth digital twin for climate change adaptation**, EGUsphere [preprint](https://doi.org/10.5194/egusphere-2025-2198), https://doi.org/10.5194/egusphere-2025-2198, 2025, in review.
-
-1. Zapponini, M., Tido Semmler, Jan Streffing, **Thomas Rackow**, Lettie A. Roach, and Thomas Jung: **Assessing resolution sensitivity in coupled climate simulations with AWI-CM3**, EGUsphere [preprint](https://doi.org/10.5194/egusphere-2025-5061), 2026.
-
-1. John, A., Beyer, S., Athanase, M., Sanchez-Benítez, A., Goessling, H. F., Hossain, A., Nurisso, M., Aguridan, R., Andrés-Martínez, M., Gaya-Àvila, A., Cheedela, S. K., Geier, P., Ghosh, R., Hadade, I., Koldunov, N. V., Pedruzo-Bagazgoitia, X., **Rackow, T.**, Sandu, I., Sidorenko, D., Streffing, J., Vitali, E., and Jung, T.: **Global Storyline Simulations at the Kilometre-scale**, in review for JAMES
-
 1. **Rackow, T.**, Koldunov, N., Lessig, C., Sandu, I., Alexe, M., Chantry, M., Clare, M., Dramsch, J., Pappenberger, F., Pedruzo-Bagazgoitia, X., Tietsche, S., and Jung, T: **Robustness of AI-based weather forecasts in a changing climate**, preprint on [arXiv](
 https://doi.org/10.48550/arXiv.2409.18529)
 <span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2409.18529" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
@@ -93,8 +87,6 @@ https://doi.org/10.48550/arXiv.2409.18529)
     
     <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.48550/arXiv.2409.18529" data-hide-less-than="20">
     </div>
-
-1. Brunner, L., Ghosh, R., Haimberger, L., Hohenegger, C., Putrasahan, D., **Rackow, T.**, Knutti, R., and Voigt, A.: **Three decades of simulating global temperatures with coupled global climate models**.
    
 1. Koldunov, N., **Rackow, T.,** Lessig, C., Danilov, S., Cheedela, S., Sidorenko, S., Sandu, I., and Jung, T.: **Emerging AI-based weather prediction models as downscaling tools**. preprint on [arXiv](https://arxiv.org/abs/2406.17977)
 {:reversed="reversed"}
@@ -106,12 +98,46 @@ https://doi.org/10.48550/arXiv.2409.18529)
 ### Publications in preparation
 
 1. Ziemen, Kluft, Kölling, **Rackow**, Wachsmann, and Gettelman: **km-scales hacked at global scales**, in prep. for GMD
+
 2. Simon F. Reifenberg, Laurent Bertino, Ed Blockley, Frederic Dupont, Ruediger Gerdes, Robert W. Grumbine, Maren Friele Grung, Yukie Hata, Mario Hoppmann, Shabnam Jafarikhasragh, Thomas Krumpen, Jean-Francois Lemieux, Stephanie Leroux, Valentin Ludwig, Francois Massonet, Malte Mueller, Cyril Palerme, **Thomas Rackow**, Pierre Rampal, Till Andreas Soya Rasmussen, Mads Hvid Ribergaard, Ignatius Rigor, Amy Solomon, Steffen Tietsche, Timothy Williams, Helge F. Goessling: **Data from the Sea Ice Drift Forecast Experiment (SIDFEx, 2017-2025): A multi-method forecast collection**, in prep. for Nature Scientific Data
 
 
 ### Peer-reviewed publications
 
+1. John, A., Beyer, S., Athanase, M., Benítez, A. S., Goessling, H., Hossain, A., Nurisso, M., Aguridan, R., Andrés-Martínez, M., Gaya-Àvila, A., Cheedela, S. K., Geier, P., Ghosh, R., Hadade, I., Koldunov, N. V., Pedruzo-Bagazgoitia, X., **Rackow, T.**, Sandu, I., Sidorenko, D., Streffing, J., Vitali, E., and Jung, T.: **Global Storyline Simulations at the Kilometre-scale**, J. Adv. Model. Earth Syst., https://doi.org/10.1029/2025MS005326, in press, 2026.
+<span class="__dimensions_badge_embed__" data-doi="10.1029/2025MS005326" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
+    </span>
+    
+    <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.1029/2025MS005326" data-hide-less-than="5">
+    </div>
+
+1. Zapponini, M., Semmler, T., Streffing, J., **Rackow, T.**, Roach, L. A., and Jung, T.: **Assessing resolution sensitivity in coupled climate simulations with AWI-CM3**, Geosci. Model Dev., 19, 3395–3425, [link](https://doi.org/10.5194/gmd-19-3395-2026), 2026.
+<span class="__dimensions_badge_embed__" data-doi="10.5194/gmd-19-3395-2026" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
+    </span>
+    
+    <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.5194/gmd-19-3395-2026" data-hide-less-than="5">
+    </div>
+
+1. Brunner, L., Ghosh, R., Haimberger, L., Hohenegger, C., Putrasahan, D., **Rackow, T.**, Knutti, R., and Voigt, A.: **Three decades of simulating global temperature patterns with coupled global climate models**, Nature Commun Earth Environ, [link](https://doi.org/10.1038/s43247-026-03497-w), 2026.
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s43247-026-03497-w" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
+    </span>
+    
+    <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.1038/s43247-026-03497-w" data-hide-less-than="5">
+    </div>
+
+1. Doblas-Reyes, F. J., Kontkanen, J., Sandu, I., Acosta, M., Al Turjmam, M. H., Alsina-Ferrer, I., Andrés-Martínez, M., Anerdi, C., Arriola, L., Axness, M., Batlle Martín, M., Bauer, P., Becker, T., Beltrán, D., Beyer, S., Bockelmann, H., Bretonnière, P.-A., Cabaniols, S., Caprioli, S., Castrillo, M., Chandrasekar, A., Cheedela, S., Correal, V., Danovaro, E., Davini, P., Enkovaara, J., Frauen, C., Früh, B., Gaya Àvila, A., Ghinassi, P., Ghosh, R., Ghosh, S., González, I., Grayson, K., Griffith, M., Hadade, I., Haine, C., Hartick, C., Haus, U.-U., Hearne, S., Järvinen, H., Jiménez, B., John, A., Juchem, M., Jung, T., Kegel, J., Kelbling, M., Keller, K., Kinoshita, B., Kiszler, T., Klocke, D., Kluft, L., Koldunov, N., Kölling, T., Kolstela, J., Kornblueh, L., Kosukhin, S., Lacima-Nadolnik, A., Leal Rojas, J. J., Lehtiranta, J., Lunttila, T., Luoma, A., Manninen, P., Medvedev, A., Milinski, S., Mohammed, A., Müller, S., Naryanappa, D., Nazarova, N., Niemelä, S., Niraula, B., Nortamo, H., Nummelin, A., Nurisso, M., Ortega, P., Paronuzzi, S., Pedruzo-Bagazgoitia, X., Pelletier, C., Peña, C., Polade, S., Pradhan, H. K., Quintanilla, R., Quintino, T., **Rackow, T.**, Räisänen, J., Rajput, M. M., Redler, R., Reuter, B., Rocha Monteiro, N., Roura-Adserias, F., Ruppert, S., Sayed, S., Schnur, R., Sharma, T., Sidorenko, D., Sievi-Korte, O., Soret, A., Steger, C., Stevens, B., Streffing, J., Sunny, J., Tenorio, L., Thober, S., Tigerstedt, U., Tinto, O., Tonttila, J., Tuomenvirta, H., Tuppi, L., Van Thielen, G., Vitali, E., von Hardenberg, J., Wagner, I., Wedi, N., Wehner, J., Willner, S., Yepes-Arbós, X., Ziemen, F., and Zimmermann, J.: **The Destination Earth digital twin for climate change adaptation**, Geosci. Model Dev., 19, 2821–2848, [link](https://doi.org/10.5194/gmd-19-2821-2026), 2026.
+<span class="__dimensions_badge_embed__" data-doi="10.5194/gmd-19-2821-2026" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
+    </span>
+    
+    <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.5194/gmd-19-2821-2026" data-hide-less-than="5">
+    </div>
+
 1. I. Hadade, D. Klocke, J. Enkovaara, T. Lunttila, **T. Rackow**, J. F. Engels, C. Frauen, R. Redler, J. Kontkanen, T. Jung, D. Sein, I. Sandu, B. Reuter, N. Wedi, S. Milinski, F. Doblas-Reyes, M. Castrillo, M. Acosta, S. Girona, and P. Manninen. 2025. **Destination Earth: The Climate Change Adaptation Digital Twin**. In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC '25). Association for Computing Machinery, New York, NY, USA, 99–110. [link](https://doi.org/10.1145/3712285.3771790), Gordon Bell Prize for Climate Modelling [Finalist](https://destine.ecmwf.int/news/destines-climate-change-adaptation-digital-twin-shortlisted-for-the-acm-gordon-bell-prize-for-climate/)
+<span class="__dimensions_badge_embed__" data-doi="10.1145/3712285.3771790" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
+    </span>
+    
+    <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.1145/3712285.3771790" data-hide-less-than="5">
+    </div>
 
 1. Gavin A. Schmidt, Kenneth D. Mankoff, Jonathan L. Bamber, Dustin Carroll, David M. Chandler, Violaine Coulon, Benjamin J. Davison, Matthew H. England, Paul R. Holland, Nicolas C. Jourdain, Qian Li, Juliana M. Marson, Pierre Mathiot, Clive R. McMahon, Twila A. Moon, Ruth Mottram, Sophie Nowicki, Anne Olivé Abelló, Andrew G. Pauling, **Thomas Rackow**, and Damien Ringeisen: **Datasets and protocols for including anomalous freshwater from melting ice sheets in climate simulations**, [link](https://doi.org/10.5194/gmd-18-8333-2025), 2025. The paper is listed in the [CMIP7 special issue on inputs and forcings](https://gmd.copernicus.org/articles/special_issue1307.html)
 <span class="__dimensions_badge_embed__" data-doi="10.5194/gmd-18-8333-2025" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
