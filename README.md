@@ -82,6 +82,8 @@
 
 1. Jakub L. Nowak, **Thomas Rackow**, Calum Scullion, Daisuke Takasuka, and Bjorn Stevens: **Mesoscale structure and albedo of stratocumulus clouds in global storm-resolving models**, submitted to JGR: Atmospheres
 
+1. Jerry Raj, Elsa Mohino, Belén Rodríguez-Fonseca, Teresa Losada, **Thomas Rackow**, and Tobias Becker: **Projected changes in African Easterly Waves and rainfall events in West Africa with kilometre-scale global coupled simulations**, submitted to Weather Clim. Dynam.
+
 1. **Rackow, T.**, Koldunov, N., Lessig, C., Sandu, I., Alexe, M., Chantry, M., Clare, M., Dramsch, J., Pappenberger, F., Pedruzo-Bagazgoitia, X., Tietsche, S., and Jung, T: **Robustness of AI-based weather forecasts in a changing climate**, preprint on [arXiv](
 https://doi.org/10.48550/arXiv.2409.18529)
 <span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2409.18529" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
