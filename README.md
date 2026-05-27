@@ -80,6 +80,8 @@
 
 ### Submitted publications
 
+1. Jakub L. Nowak, **Thomas Rackow**, Calum Scullion, Daisuke Takasuka, and Bjorn Stevens: **Mesoscale structure and albedo of stratocumulus clouds in global storm-resolving models**, submitted to JGR: Atmospheres
+
 1. **Rackow, T.**, Koldunov, N., Lessig, C., Sandu, I., Alexe, M., Chantry, M., Clare, M., Dramsch, J., Pappenberger, F., Pedruzo-Bagazgoitia, X., Tietsche, S., and Jung, T: **Robustness of AI-based weather forecasts in a changing climate**, preprint on [arXiv](
 https://doi.org/10.48550/arXiv.2409.18529)
 <span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2409.18529" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
@@ -96,6 +98,8 @@ https://doi.org/10.48550/arXiv.2409.18529)
 -->
 
 ### Publications in preparation
+
+1. Renu Singh, Robert Brunstein, Antonia Anna Jost, **Thomas Rackow**, Claire Monteleoni, Yana Hasson, Christian Lessig, and Guillaume Couairon: **Evaluating Skill and Stability of ArchesWeather and ArchesWeatherGen under Multi-Decadal Climate Simulations**, in prep.
 
 1. Ziemen, Kluft, Kölling, **Rackow**, Wachsmann, and Gettelman: **km-scales hacked at global scales**, in prep. for GMD
 
