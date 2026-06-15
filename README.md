@@ -431,6 +431,8 @@ Dimensions badges are only shown for papers with at least one citation; Altmetri
    
 ### Other publications
 
+1. **Climate and Earth System Insights and Advances - Science2Policy slideset**, Séférian, R., Rogelj, J., Koenigk, T., Jeffery, H., Yang, S., Bathiany, S., Abeshev, K., Bauer, N., Rocha, M., & **Rackow, T.** (2026), [DOI](https://doi.org/10.5281/zenodo.20662602). This report is the slideset used for an EU project cluster discussion witrh the European Commission in September 2025. Drawing on work from six Horizon Europe projects (ESM2025, ClimTip, TipESM, OptimESM, nextGEMS and RESCUE) this Climate and Earth System Insights briefing summarises the latest evidence on how human emissions are changing the climate and what this means for mitigation and risk management.
+
 1. **Freshwater forcing from Greenland and Antarctica**, Kenneth D Mankoff, Julie Arblaster, Jonathan L Bamber, Dustin Carroll, David Chandler, Matthew H England, Paul Holland, Nicolas Jourdain, Qian Li, Juliana Marson, Pierre Mathiot, Clive McMahon, Twila A Moon, Anna Olivé Abelló, Andrew G. Pauling, **Thomas Rackow**, Damien Ringeisen, and Gavin A Schmidt. [Read the AGU abstract](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1539127)
 
 1. **Fixing water and energy budget imbalances in the Integrated Forecasting System**. Becker, T., **Rackow, T.**, Pedruzo, X., Sandu, I., Forbes, R., Diamantakis, M., Bechtold, P., and Polichtchouk, I. (2022). ECMWF newsletter, Number 172. [Read it](https://www.ecmwf.int/en/newsletter/172/news/fixing-water-and-energy-budget-imbalances-integrated-forecasting-system)
