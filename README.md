@@ -80,9 +80,9 @@
 
 ### Submitted publications
 
-1. Jakub L. Nowak, **Thomas Rackow**, Calum Scullion, Daisuke Takasuka, and Bjorn Stevens: **Mesoscale structure and albedo of stratocumulus clouds in global storm-resolving models**, submitted to JGR: Atmospheres
+1. Raj, J., Mohino, E., Rodríguez-Fonseca, B., Losada, T., **Rackow, T.**, and Becker, T.: **Projected changes in African Easterly Waves and rainfall events in West Africa with kilometre-scale global coupled simulations**, EGUsphere, [preprint link](https://doi.org/10.5194/egusphere-2026-2879), 2026.
 
-1. Jerry Raj, Elsa Mohino, Belén Rodríguez-Fonseca, Teresa Losada, **Thomas Rackow**, and Tobias Becker: **Projected changes in African Easterly Waves and rainfall events in West Africa with kilometre-scale global coupled simulations**, submitted to Weather Clim. Dynam.
+1. Jakub L. Nowak, **Thomas Rackow**, Calum Scullion, Daisuke Takasuka, and Bjorn Stevens: **Mesoscale structure and albedo of stratocumulus clouds in global storm-resolving models**, submitted to JGR: Atmospheres
 
 1. Mitchell Bushuk, David B. Bonan, Stephen M. Griffies, William Gregory, Yongfei Zhang, Bill Hurlin, Yan-Ting Chen, **Thomas Rackow**, and Helge F. Goessling: **Historical and projected Antarctic sea ice trends across high-resolution coupled model hierarchies**, submitted to Geophysical Research Letters
 
