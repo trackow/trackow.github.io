@@ -80,6 +80,8 @@
 
 ### Submitted publications
 
+1. Renu Singh, Robert Brunstein, Antonia Anna Jost, **Thomas Rackow**, Claire Monteleoni, Yana Hasson, Christian Lessig, and Guillaume Couairon: **Evaluating Skill and Stability of ArchesWeather and ArchesWeatherGen under Multi-Decadal Climate Simulations**, [preprint on EGUSphere](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3782/), [arXiv](https://doi.org/10.48550/arXiv.2605.29976)
+
 1. Raj, J., Mohino, E., Rodríguez-Fonseca, B., Losada, T., **Rackow, T.**, and Becker, T.: **Projected changes in African Easterly Waves and rainfall events in West Africa with kilometre-scale global coupled simulations**, EGUsphere, [preprint link](https://doi.org/10.5194/egusphere-2026-2879), 2026.
 
 1. Jakub L. Nowak, **Thomas Rackow**, Calum Scullion, Daisuke Takasuka, and Bjorn Stevens: **Mesoscale structure and albedo of stratocumulus clouds in global storm-resolving models**, submitted to JGR: Atmospheres
@@ -102,8 +104,6 @@ https://doi.org/10.48550/arXiv.2409.18529)
 -->
 
 ### Publications in preparation
-
-1. Renu Singh, Robert Brunstein, Antonia Anna Jost, **Thomas Rackow**, Claire Monteleoni, Yana Hasson, Christian Lessig, and Guillaume Couairon: **Evaluating Skill and Stability of ArchesWeather and ArchesWeatherGen under Multi-Decadal Climate Simulations**, in prep.
 
 1. Ziemen, Kluft, Kölling, **Rackow**, Wachsmann, and Gettelman: **km-scales hacked at global scales**, in prep. for GMD
 
