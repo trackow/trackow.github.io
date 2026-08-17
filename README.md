@@ -111,6 +111,8 @@ https://doi.org/10.48550/arXiv.2409.18529)
 
 3. Koldunov, A., Danilov, S., Koldunov, N., Beyer, S., **Rackow, T.**, Cheedela, S. K., Müller, V., Sidorenko, D., Klocke, D., Ortega, P., Batlle Martin, M., Wedi, N., Kiszler, T., and Jung, T.: **Mesoscale eddies in the km-scale coupled simulations of the Destination Earth Climate Digital Twin: a multi-model validation against satellite altimetry**, in prep.
 
+4. Ortega, P., Rocha Monteiro, N., Batlle Martín, M., Keller, K., Hall, H., Acosta, M., Alerany Solé, M., Arumií-Planas, C., Axness, M., Bretonnière, P.-A., Castrillo, M., Correal, V., Dimdore-Miles, O., Donat, M., Gaya-Àvila, A., Ghosh, S., González, I., Hearne, S., Kuznetsova, D., Lapin, V., De Luca, P., Maraldi, B., Martiín-Martiínez, E., Paronuzzi, S., Peña, C., Sánchez Lorente, Á., Saurral, R. I., van Thielen, G., Tourigny, E., You, C., Wagner, I., Doblas-Reyes, F. J., Aengenheyster, M., Anton, L., Caprioli, S., Davini, P., von Hardenberg, J., Milinski, S., Murray-Watson, R., Nurisso, M., Pedruzo Bagazgoitia, X., Pelletier, C., **Rackow, T.**, et al.: A hierarchy of high-resolution IFS-NEMO configurations for assessing recent and future climate, in prep.
+
 
 ### Peer-reviewed publications
 
