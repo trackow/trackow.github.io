@@ -118,6 +118,13 @@ https://doi.org/10.48550/arXiv.2409.18529)
 
 ### Peer-reviewed publications
 
+1. Bushuk, M., Bonan, D. B., Griffies, S. M., Gregory, W., Zhang, Y., Hurlin, B., Chen, Y.-T., **Rackow, T.** and Goessling, Helge F. (2026). **Historical and projected Antarctic sea ice trends across high-resolution coupled model hierarchies**. Geophysical Research Letters, 53, e2026GL124043. https://doi.org/10.1029/2026GL124043
+<span class="__dimensions_badge_embed__" data-doi="10.1029/2026GL124043" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
+    </span>
+    
+    <div class='altmetric-embed' data-badge-type="donut" data-badge-popover="right" data-doi="10.1029/2026GL124043" data-hide-less-than="5">
+    </div>
+
 1. John, A., Beyer, S., Athanase, M., Benítez, A. S., Goessling, H., Hossain, A., Nurisso, M., Aguridan, R., Andrés-Martínez, M., Gaya-Àvila, A., Cheedela, S. K., Geier, P., Ghosh, R., Hadade, I., Koldunov, N. V., Pedruzo-Bagazgoitia, X., **Rackow, T.**, Sandu, I., Sidorenko, D., Streffing, J., Vitali, E., and Jung, T.: **Global Storyline Simulations at the Kilometre-scale**, J. Adv. Model. Earth Syst., https://doi.org/10.1029/2025MS005326, in press, 2026.
 <span class="__dimensions_badge_embed__" data-doi="10.1029/2025MS005326" data-hide-zero-citations="true" data-legend="hover-right" data-style="large_rectangle">
     </span>
